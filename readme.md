@@ -2416,15 +2416,17 @@ The possibility of arahatship without possession of a mundane *jhāna* has somet
 
 Here, when the dry-insight worker is distinguished from the jhānaattainer who does not use his *jhāna* to develop insight, the clear implication is that the former does not have a basic *jhāna*. If he did there would be no reason to speak of the two as separate cases.
 
-Further evidence for the existence of arahats lacking mundane *jhāna* is provided by the Susīma Sutta together with its commentaries.2 In this sutta the monk Susīma is perplexed about a group of monks who claim to have reached arahatship yet deny possessing supernormal powers or the peaceful deliverances of the immaterial sphere. To the question how they can be arahats without these attainments they reply: “We are liberated by wisdom” (paññāvimutta kho mayam). Confused by this answer, Susīma goes to the Buddha for clarification. The Buddha declares: “Susīma, first the knowledge of the structure of phenomena arises, after1. PP., p. 779. Vism., p. 573. 2. SN. 2:119-23. wards the knowledge of nibbāna.” Then he explains the impermanence, suffering, and selflessness of the five aggregates. He shows how contemplation of the three characteristics leads to dispassion, detachment and emancipation, elucidates the law of dependent arising, and convinces Susima that knowledge of the causal law can issue in liberation without requiring any possession of supernormal powers or the immaterial attainments.
+Further evidence for the existence of arahats lacking mundane *jhāna* is provided by the Susīma Sutta together with its commentaries.2 In this sutta the monk Susīma is perplexed about a group of monks who claim to have reached arahatship yet deny possessing supernormal powers or the peaceful deliverances of the immaterial sphere. To the question how they can be arahats without these attainments they reply: “We are liberated by wisdom” (paññāvimutta kho mayam). Confused by this answer, Susīma goes to the Buddha for clarification. The Buddha declares: “Susīma, first the knowledge of the structure of phenomena arises, afterwards the knowledge of nibbāna.” Then he explains the impermanence, suffering, and selflessness of the five aggregates. He shows how contemplation of the three characteristics leads to dispassion, detachment and emancipation, elucidates the law of dependent arising, and convinces Susima that knowledge of the causal law can issue in liberation without requiring any possession of supernormal powers or the immaterial attainments.
+
+[^383]: 383. PP., p. 779. Vism., p. 573. 2. SN. 2:119-23.
 
 It is true that in the sutta itself a lack of *jhāna* is not ascribed to the group of arahats liberated by wisdom. The text only mentions the absence of the five *abhiññās* and the *āruppas*. But the exegetical sources on the sutta fill in the gap, showing that these arahats reached their goal without mundane *jhāna* of absorption level. The commentary rephrases the monks’ reply ““We are liberated by wisdom’’ to make explicit the fact that they are dry insight meditators: ‘“‘We are liberated by wisdom, friend’: we are contemplatives, dry insight workers, liberated by wisdom alone.’’! The commentary explains the knowledge of the structure of phenomena (*dhammaṭṭhitiñāṇa*) as insight knowledge and the knowledge of *nibbāna* (*nibbāne ñāṇa*) as path knowledge. It states that the Buddha gave the long disquisition on insight ‘for the purpose of showing the arising of knowledge even without concentration.”? The subcommentary makes the sutta’s purport still clearer by explaining the commentary’s phrase “even without concentration” as meaning “even without concentration previously accomplished, reaching the characteristic of serenity,’’ adding that “‘this is said in reference to the vipassandyanika.”’? From all this it follows that these arahats, attaining emancipation by wisdom without prior concentration of the serenity level, lacked mundane *jhāna*. As arahats, however, they would necessarily have reached the supramundane *jhāna* of the paths and fruits, with constant access to the *jhāna* of the attainment of fruition.
 
-[^383]: 383. “Āvuso mayarn nijjhanaka sukkhavipassaka pafifiamatten’eva vimutta ti dasseti.” SN.A. 2:117. N.B.: The word nijjhānakaé is ambiguous: the word nijjhāna is used in the suttas to mean reflection or contemplation and we here follow that usage by rendering its derivative as “‘contemplative” ; but the purport might also be “‘lacking *jhāna*,”’ as the prefix nir sometimes has a privative as well as augmentative meaning.
+[^384]: 384. “Āvuso mayarn nijjhanaka sukkhavipassaka pafifiamatten’eva vimutta ti dasseti.” SN.A. 2:117. N.B.: The word nijjhānakaé is ambiguous: the word nijjhāna is used in the suttas to mean reflection or contemplation and we here follow that usage by rendering its derivative as “‘contemplative” ; but the purport might also be “‘lacking *jhāna*,”’ as the prefix nir sometimes has a privative as well as augmentative meaning.
 
-[^384]: 384. “Vinā pi samadhirh evarh fianuppattidassanattham.”’ Ibid.
+[^385]: 385. “Vinā pi samadhirh evarh fianuppattidassanattham.”’ Ibid.
 
-[^385]: 385. “Samatha lakkhanappattarn purimasiddharṁ vinā pi samadhinti vipassana saṇikaṃ sandhāya vuttarh.”’ SN.T. 2:125. van
+[^386]: 386. “Samatha lakkhanappattarn purimasiddharṁ vinā pi samadhinti vipassana saṇikaṃ sandhāya vuttarh.”’ SN.T. 2:125. van
 
 In contrast to the paññāvimutta arahats, those arahats who are *ubhatobhāgavimutta* enjoy a twofold liberation. Through their mastery over the formless attainments they are liberated from the material body (*rūpakāya*), capable of dwelling in this very life in the meditations corresponding to the immaterial planes of existence; through their attainment of arahatship they are liberated from the mental body (*nāmakāya*), presently free from all defilements and sure of final emancipation from future becoming. Paññāvimutta arahats only possess the second of these two liberations.
 
@@ -2434,7 +2436,7 @@ The double liberation of the *ubhatobhāgavimutta* arahat should not be confused
 
 > And how, monks, is a person a red lotus recluse (*samaṇapaduma*)? Here, monks, with the destruction of the cankers a monk here and now enters and dwells in the cankerless liberation of mind, liberation by wisdom, having realized it for himself with direct knowledge. And he dwells experiencing the eight deliverances with his body. Thus, monks, a person is a red lotus recluse.?
 
-[^386]: 386. AN 2:87.
+[^387]: 387. AN 2:87.
 
 Since the description of these two types coincides with that of paññāvimutta and *ubhatobhāgavimutta* the two pairs may be identified, the white lotus recluse with the paññāvimutta, the red lotus recluse with the ubhatobhāgavimutta. Yet the paññāvimutta arahat, while lacking the experience of the eight deliverances, still has both liberation of mind and liberation by wisdom.
 
@@ -2444,13 +2446,13 @@ When liberation of mind and liberation by wisdom are joined together and describ
 
 > By the word ‘mind’ (*ceto*) the concentration concomitant with the fruit of arahatship is meant, by the word ‘wisdony’ the concomitant wisdom is meant. The concentration there is called ‘liberation of mind’ because it has liberated the mind from lust, the wisdom is called ‘liberation by wisdom’ because it has liberated the mind from ignorance.
 
-[^387]: 387. MN. 1:296-98.
+[^388]: 388. MN. 1:296-98.
 
-[^388]: 388. MN. 1:298, SN. 5:423, MN. 1:197.
+[^389]: 389. MN. 1:298, SN. 5:423, MN. 1:197.
 
-[^389]: 389. “...Rāgavirāga cetovimutti avijjāvirāga paññāvimutti.” AN. 1:61.
+[^390]: 390. “...Rāgavirāga cetovimutti avijjāvirāga paññāvimutti.” AN. 1:61.
 
-[^390]: 390. MN. 1:163-84.
+[^391]: 391. MN. 1:163-84.
 
 Since every arahat reaches arahatship through the Noble Eightfold Path, he must have attained supramundane *jhāna* in the form of right concentration, the eighth factor of the path, defined as the four *jhānas*. This *jhāna* remains with him as the concentration of the fruition attainment of arahatship, which occurs at the level of supramundane *jhāna* corresponding to that of his path. Thus he always stands in possession of at least the supramundane *jhāna* of fruition, called the anāsavam cetovimutti, ‘“‘cankerless liberation of mind.’ However, this consideration does not reflect back on his mundane attainments, requiring that every arahat possesses mundane *jhāna*.
 
@@ -2458,15 +2460,15 @@ Nevertheless, though early Buddhism acknowledges the possibility of a dry-vision
 
 On the side of inner experience the *jhānas*  are valued as providing the arahat with a “‘blissful dwelling here and now” (*diṭṭhadhammasukhavihāra*). The suttas often show arahats attaining to *jhāna* and the Buddha himself declares the four *jhānas*  to be figuratively a kind of *nibbāna* in this present life.2 With respect to levels and factors there is no difference between the mundane *jhānas*  of an arahat and those of a non-arahat. The difference concerns their function. For non-arahats the mundane *jhānas*  constitute wholesome kamma; they are deeds with a potential to produce results, to precipitate rebirth in a corresponding realm of existence. But in the case of an arahat mundane *jhāna* is no more kamma. Since he has eradicated ignorance and craving, the roots of kamma, his actions leave no residue; they have no capacity to generate results. For him the *jhānic* consciousness is a mere functional consciousness which comes and goes and once gone disappears without a trace.
 
-[^391]: 391. MN.A. 1:169.
+[^392]: 392. MN.A. 1:169.
 
-[^392]: 392. See AN. 4:453-54.
+[^393]: 393. See AN. 4:453-54.
 
 The value of the *jhānas*  extends beyond the confines of the arahat’s personal experience to testify to the spiritual efficacy of the Buddha’s dispensation itself. The *jhānas*  are regarded as ornamentations of the yogin, testimonies to the accomplishment of the spiritually perfect man and the effectiveness of the teaching he follows. A worthy monk is able to ““gain at will, without trouble or difficulty, the four *jhānas*  pertaining to the higher consciousness, blissful dwellings here and now.” This ability to gain the jhanas at will is a ‘“‘quality that makes a monk an elder.” When accompanied by several other spiritual accomplishments it is an essential quality of “a recluse who graces recluses”’ and of a monk who can move unobstructed in the four directions. Having ready access to the four *jhānas*  makes an elder dear and agreeable, respected and esteemed by his fellow monks. Facility in gaining the *jhānas*  is one of the eight qualities of a completely inspiring monk (samantapāsādika bhikkhu) perfect in all respects; it is also one of the eleven foundations of faith (*saddhāpadānāni*). It is significant that in all these lists of qualities the last item is always the attainment of arahatship, “the cankerless liberation of mind, liberation by wisdom,”’ showing that all desirable qualities in a bhikkhu culminate in arahatship.1
 
 On one occasion, when a number of chief disciples met together in a lovely Salwood at Gosiṅga on a beautiful moonlit night, the discussion arose among them as to what type of monk could illumine that Salwood. The Venerable Revata answered that it would be a monk who delights in solitary meditation, who 1s delighted by solitary meditation, who is intent on mental tranquility. The Venerable Sāriputta replied that it would be a monk who could abide in whatever meditative attainment he wanted in the morning, midday, and evening.’ Sāriputta himself is extolled for his ability to enter the four *jhānas*, the four āruppās, and the attainment of cessation without giving rise to the thought “TI am attaining,” ‘‘I have attained” or “‘I have emerged.”’ The reason he can avoid such thoughts is that, as an arahat, he has uprooted all “I’’-making, “mine’’-making, and tendencies to conceit.2 Elsewhere the Buddha praises Sāriputta for his skill in entering each of the nine attainments, analyzing them into their constituent formations, and contemplating them witha mind unconfined by attraction or repulsion.³
 
-[^393]: 393. AN. 2:23, 3:131, 135, 114; 4:314-15, 5:337.
+[^394]: 394. AN. 2:23, 3:131, 135, 114; 4:314-15, 5:337.
 
 The higher the degree of his mastery over the meditative attainments, the higher the esteem in which an arahat monk is held and the more praiseworthy his accomplishment is considered to be. On one occasion the Buddha met with three arahat bhikkhus— the Venerable Anuruddha, Nandiya, and Kimbila—and elicited from them the admission that they were all capable of attaining the four *jhānas*, the four āruppās, cessation, and the fruit of arahatship. After this discussion the Buddha declared that if all the people in the world were to recollect these three young men with a mind of confidence, it would lead to their welfare and happiness for a long time to come. He concludes: ““See how these three young men are faring for the welfare of the many folk, out of compassion for the world, for the good, welfare and happiness of gods and men.’’4
 
@@ -2474,29 +2476,29 @@ Though the *paññā-vimutta* and *ubhatobhāgavimutta* arahats are equal with r
 
 > When a monk has mastered these eight deliverances in direct order, in reverse order, and in both orders, when he can attain to and emerge from any one of them, whenever he chooses, wherever he chooses and for as long as he chooses—when too, with the destruction of the cankers, he enters and abides in the cankerless liberation of mind, liberation by wisdom, after realizing it for himself here and now through direct knowledge—then such a monk is called one liberated in both ways. There is no other liberation in both ways higher and more excellent than this liberation in both ways.
 
-[^394]: 394. MN. 1:213-15.
+[^395]: 395. MN. 1:213-15.
 
-[^395]: 395. SN. 3:235-38.
+[^396]: 396. SN. 3:235-38.
 
-[^396]: 396. MN. Sutta No. 111.
+[^397]: 397. MN. Sutta No. 111.
 
-[^397]: 397. MN. 1:211.
+[^398]: 398. MN. 1:211.
 
 The highest respect goes to those monks who possess not only liberation in both ways but the six *abhiññās*, the first five the outcome of the eight attainments of serenity, the sixth, the supramundane *abhiññā* of arahatship, the outcome of insight. The Buddha declares that a monk endowed with the six abhiiids is worthy of gifts and hospitality, worthy of offerings and reverential salutations, a supreme field of merit for the world.? In the period after the Buddha’s parinibbāna, the Venerable Ānanda was asked whether the Buddha had designated a successor, to which he replied in the negative. He also denied that the Saṅgha had selected a single monk to be its leader. However, he said, there were monks in the Order who were regarded with special reverence and esteem, and to whom other monks looked for guidance and support. What qualified a monk to give guidance to others was endowment with ten qualities: moral virtue, learning, contentment, mastery over the four *jhānas*, the five mundane *abhiññās*, and attainment of the cankerless liberation of mind, liberation by wisdom.? Perhaps it was because he was extolled by the Buddha for his facility in the meditative attainments and the *abhiññās* that the Venerable Mahākassapa assumed the presidency of the first great Buddhist council held in Rājagaha after the Buddha’s passing away.
 
 In the Ambaṭṭha Sutta the Buddha recites a verse praising the man endowed with knowledge and conduct (*vijjācaraṇasampanna*): “The nobleman (*khattiya*) is the best among men for those who look to lineage, but one endowed with knowledge and conduct is best among gods and men.’ Conduct (*caraṇa*), he explains, includes moral discipline, sense restraint, mindfulness and discernment, contentment, solitary living, the abandonment of the five hindrances, and finally, as the outcome of these practices, the attainment of the four *jhānas*. Knowledge (*vijjā*) consists in insight-knowledge, the knowledge of the mind-made body, the five mundane *abhiññās*, and the knowledge of the destruction of the cankers. The Buddha concludes his exposition by saying of a bhikkhu who has fulfilled this training:
 
-[^398]: 398. DN. 2:71.
+[^399]: 399. DN. 2:71.
 
-[^399]: 399. AN. 3:280-81.
+[^400]: 400. AN. 3:280-81.
 
-[^400]: 400. MN. 3:11-12.
+[^401]: 401. MN. 3:11-12.
 
-[^401]: 401. DN.. 1:99.
+[^402]: 402. DN.. 1:99.
 
 > This bhikkhu is called ‘endowed with knowledge’, ‘endowed with conduct’, ‘endowed with knowledge and conduct’. There is no other endowment with knowledge and conduct higher or more excellent than this endowment with knowledge and conduct.?
 
-[^402]: 402. Ibid. 100.
+[^403]: 403. Ibid. 100.
 
 ## CONCLUSION
 
@@ -2628,6 +2630,6 @@ The Thirty-seven Constituents of Enlightenment (sattatiṃsā bodhi-pakkhiyadham
 
 7. Right mindfulness (sammāsati)
 
-8. Right concentration (sammāsamādhi)[^403]
+8. Right concentration (sammāsamādhi)[^404]
 
-[^403]: 403. DN. 2:120. MN. 2:11-12.
+[^404]: 404. DN. 2:120. MN. 2:11-12.
