@@ -1356,7 +1356,7 @@ The standard formula for the base of boundless space, as presented in the suttas
 
 [^221]: 221. PP., p. 355. Vism. p. 272.
 
-There are four phrases in this formula worth discussing separately: [1] with the complete surmounting of perceptions of matter (sabbaso r ūpasaññānaṁ samatikkama); [2] with the disappearance of perceptions of resistance (*paṭigha saññāṇa atthagama*); [3] with non-attention to perceptions of variety (ndnattasaññānaṁ amanasikāra); and [4] unbounded space (*ananto ākāso*).
+There are four phrases in this formula worth discussing separately: [1] with the complete surmounting of perceptions of matter (*sabbaso rūpasaññānaṁ samatikkama*); [2] with the disappearance of perceptions of resistance (*paṭigha saññāṇa atthagama*); [3] with non-attention to perceptions of variety (ndnattasaññānaṁ amanasikāra); and [4] unbounded space (*ananto ākāso*).
 
 [1] “With the complete surmounting of perceptions of matter’? (*sabbaso rūpasaññānaṁ samatikkama*)
 
