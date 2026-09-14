@@ -1598,7 +1598,7 @@ This will be followed by three or four impulsions (*javana*) of the preliminary 
 
 If the yogin wishes to hear distant sounds he should begin by delimiting a small area, master the ability to hear the sounds in that area, and then extend the range of his hearing outward by degrees. As his ability improves he can hear distinctly all the sounds on earth and in the other planes of existence within a world system and even further. Moreover, if he wants to, he can define each sound separately, even when it is merged with other sounds.
 
-### [3] The third abhiññā: the knowledge of others’ minds (cetopariya fidna, paracittavijanana)
+### [3] The third abhiññā: the knowledge of others’ minds (*cetopariya ñāṇa, paracittavijānana*)
 
 The third *abhiññā* is the knowledge of others’ minds, the ability to penetrate with one’s own mind the mental states of others. ‘The Buddha describes this *abhiññā* as follows:
 
@@ -1664,7 +1664,7 @@ In addition to the six *abhiññās*, certain suttas mention two other kinds of 
 
 The textual description of “knowledge and vision”’ is as follows: With his mind thus concentrated...he applies and directs his mind to knowledge and vision. He understands: “This body of mine is material, composed of the four primary elements. It originates from mother and father, is sustained by rice and gruel, subject to impermanence, erosion, abrasion, dissolution, and disintegration. And this consciousness of mine is dependent on it and bound up with it’.?
 
-According to the commentary, “knowledge and vision”’ in this passage signifies insight-knowledge (vipassandfidna).* After emerging from the fourth *jhāna*, the yogin directs his attention to his body and mind. He first discerns the body, and sees it as material, compounded, dependently arisen, impermanent, subject to destruction. He then directs his attention to the mind, and sees the mind occurring in dependence on the body, sharing its conditioned, impermanent, and insubstantial nature. This knowledge of insight, brought to its apex, issues in the knowledge of the destruction of the cankers.
+According to the commentary, “knowledge and vision”’ in this passage signifies insight-knowledge (*vipassanañāṇa*).* After emerging from the fourth *jhāna*, the yogin directs his attention to his body and mind. He first discerns the body, and sees it as material, compounded, dependently arisen, impermanent, subject to destruction. He then directs his attention to the mind, and sees the mind occurring in dependence on the body, sharing its conditioned, impermanent, and insubstantial nature. This knowledge of insight, brought to its apex, issues in the knowledge of the destruction of the cankers.
 
 [^272]: 272. DN. 1:76-77. MN. 2:17-18.
 
@@ -1894,7 +1894,7 @@ When he gains this initial understanding of rise and fall the meditator has arri
 
 #### [6] Purification by Knowledge and Vision of the Way
 
-Having relinquished attachment to the ten imperfections of insight and correctly distinguished the true path from the false, the disciple now enters upon a steady progression of insights which leads him through increasingly deeper levels of understanding right up to the threshold of the supramundane path. These insights, nine in number, begin with mature knowledge of rise and fall and culminate in conformity knowledge (*anulomañāṇa*), the pinnacle of mundane insight. Together with the previously accomplished comprehension-knowledge (sammasanafidna), these nine insights complete the ten kinds of insight-knowledge mentioned in the *Abhidhammattha Saṅgaha*.
+Having relinquished attachment to the ten imperfections of insight and correctly distinguished the true path from the false, the disciple now enters upon a steady progression of insights which leads him through increasingly deeper levels of understanding right up to the threshold of the supramundane path. These insights, nine in number, begin with mature knowledge of rise and fall and culminate in conformity knowledge (*anulomañāṇa*), the pinnacle of mundane insight. Together with the previously accomplished comprehension-knowledge (*sammasanañāṇa*), these nine insights complete the ten kinds of insight-knowledge mentioned in the *Abhidhammattha Saṅgaha*.
 
 [^307]: 307. PP., pp. 739 ff. ““Obhāsa, ñāṇa, piti, passaddhi, sukha, adhimokkha, paggaha, upaṭṭhāna, upekkha, nikanti,.”” Vism., pp. 544-45.
 
