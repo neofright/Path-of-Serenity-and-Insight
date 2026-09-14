@@ -1360,9 +1360,7 @@ There are four phrases in this formula worth discussing separately: [1] with the
 
 [1] “With the complete surmounting of perceptions of matter’? (*sabbaso rūpasaññānaṁ samatikkama*)
 
-The phrase “‘perceptions of matter,’’ according to the commentaries, means both the perceptions of the fine-material *jhānas*  and their objects, the kasiṇas.² We saw that in developing the finematerial *jhānas*  the meditator began with a coarse physical object,
-
-shifted his focus to the subtle counterpart sign, and ascended from the first to the fourth *jhāna* by abandoning various mental factors while retaining the same object. But now he must give up, not only the perceptions of material form belonging to the four *jhānas*, but also the object of these perceptions—the fine material form of the counterpart sign—since it is impossible to attain the base of boundless space without overcoming all perceptions of material form.
+The phrase “‘perceptions of matter,’’ according to the commentaries, means both the perceptions of the fine-material *jhānas*  and their objects, the kasiṇas.² We saw that in developing the finematerial *jhānas*  the meditator began with a coarse physical object, shifted his focus to the subtle counterpart sign, and ascended from the first to the fourth *jhāna* by abandoning various mental factors while retaining the same object. But now he must give up, not only the perceptions of material form belonging to the four *jhānas*, but also the object of these perceptions—the fine material form of the counterpart sign—since it is impossible to attain the base of boundless space without overcoming all perceptions of material form.
 
 [2] ‘“‘With the disappearance of perceptions of resistance’ (*paṭighasaññānaṁ atthagama*)
 
