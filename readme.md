@@ -1420,7 +1420,7 @@ immaterial *jhāna* and its object. The phrase “‘there is nothing” is expl
 
 [^232]: 232. PP., p. 364. Vism., p. 278.
 
-#### The Fourth Āruppā: The Base of Neither Perception nor Non-perception (nevasaññī nāsaññāyatana)
+#### The Fourth Āruppā: The Base of Neither Perception nor Non-perception (*nevasaññī nāsaññāyatana*)
 
 If the yogin wants to go further and reach the fourth and final *āruppā* attainment, the base of neither perception nor non-perception, he must first achieve fivefold mastery over the base of nothingness. Then he should contemplate the defectiveness of that attainment and the superiority of the base of neither perception nor non-perception. He can also reflect upon the unsatisfactoriness of perception, thinking: “Perception is a disease, perception is a boil, perception is a dart...this is peaceful, this is sublime, that is to say, neither perception nor non-perception.”? In this way he ends his attachment to the base of nothingness and arouses a desire to attain the base of neither perception nor non-perception.
 
