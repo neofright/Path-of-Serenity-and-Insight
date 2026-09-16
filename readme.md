@@ -2546,94 +2546,94 @@ The gradations in the veneration given to arahats on the basis of their mundane 
 
 ## APPENDIX 1
 
-The Thirty-seven Constituents of Enlightenment (sattatiṃsā bodhi-pakkhiyadhamma)
+The Thirty-seven Constituents of Enlightenment (*sattatiṃsā bodhi-pakkhiyadhamma*)
 
 ## I. The Four Foundations of Mindfulness (cattāro satipaṭṭhāna)
 
-1. Contemplation of the body as a foundation of mindfulness (kāyānupassanā satipaṭṭhāna)
+1. Contemplation of the body as a foundation of mindfulness (*kāyānupassanā satipaṭṭhāna*)
 
-2. Contemplation of feelings as a foundation of mindfulness (vedanānupassanā satipaṭṭhāna)
+2. Contemplation of feelings as a foundation of mindfulness (*vedanānupassanā satipaṭṭhāna*)
 
-3. Contemplation of states of mind as a foundation of mindfulness (cittānupassanā satipaṭṭhāna)
+3. Contemplation of states of mind as a foundation of mindfulness (*cittānupassanā satipaṭṭhāna*)
 
-4. Contemplation of mental objects as a foundation of mindfulness (dhammānupassanā satipaṭṭhāna)
+4. Contemplation of mental objects as a foundation of mindfulness (*dhammānupassanā satipaṭṭhāna*)
 
 ## II. The Four Right Endeavors (cattāro sammappadhāna)
 
-1. The effort to prevent unarisen evil states (anuppannānam pdpakanam akusalanam dhammānaṁ anuppādāya vāyāma)
+1. The effort to prevent unarisen evil states (*anuppannānam pdpakanam akusalanam dhammānaṁ anuppādāya vāyāma*)
 
-2. The effort to abandon arisen evil states (uppannānaṁ pa&pakanam akusalanam dhammānaṁ pahānāya vāyāma)
+2. The effort to abandon arisen evil states (*uppannānaṁ pa&pakanam akusalanam dhammānaṁ pahānāya vāyāma*)
 
-3. The effort to arouse unarisen wholesome states (anuppannanam kusalanam dhammena uppādāya vāyāma)
+3. The effort to arouse unarisen wholesome states (*anuppannanam kusalanam dhammena uppādāya vāyāma*)
 
-4. The effort to increase arisen wholesome states (uppannanam kusalanam dhammanam bhiyyobhāvāya vāyamati)
+4. The effort to increase arisen wholesome states (*uppannanam kusalanam dhammanam bhiyyobhāvāya vāyamati*)
 
 ## III. The Four Bases of Success (cattāro iddhipāda)
 
-1. The base of success consisting in zeal (chandiddhipāda)
+1. The base of success consisting in zeal (*chandiddhipāda*)
 
-2. The base of success consisting in energy (viriyiddhipāda)
+2. The base of success consisting in energy (*viriyiddhipāda*)
 
-3. The base of success consisting in consciousness (cittiddhipada)
+3. The base of success consisting in consciousness (*cittiddhipada*)
 
-4. The base of success consisting in inquiry (vimamsiddhipada)
+4. The base of success consisting in inquiry (*vimamsiddhipada*)
 
 ## IV. The Five Spiritual Faculties (paficindriyanz)
 
-1. The faculty of faith (saddhindriya)
+1. The faculty of faith (*saddhindriya*)
 
-2. The faculty of energy (viriyindriya)
+2. The faculty of energy (*viriyindriya*)
 
-3. The faculty of mindfulness (satindriya)
+3. The faculty of mindfulness (*satindriya*)
 
-4. The faculty of concentration (samādhindriya)
+4. The faculty of concentration (*samādhindriya*)
 
-5. The faculty of wisdom (paññindriya)
+5. The faculty of wisdom (*paññindriya*)
 
 ## V. The Five Spiritual Powers (pañca balāni)
 
-1. The power of faith (saddhābala)
+1. The power of faith (*saddhābala*)
 
-2. The power of energy (viriyabala)
+2. The power of energy (*viriyabala*)
 
-3. The power of mindfulness (satibala)
+3. The power of mindfulness (*satibala*)
 
-4. The power of concentration (samādhibala)
+4. The power of concentration (*samādhibala*)
 
-5. The power of wisdom (paññābala)
+5. The power of wisdom (*paññābala*)
 
 ## VI. The Seven Factors of Enlightenment (satta bojjhaṅga)
 
-1. The mindfulness factor of enlightenment (satisambojjhaṅga)
+1. The mindfulness factor of enlightenment (*satisambojjhaṅga*)
 
-2. The investigation of phenomena factor of enlightenment (dhammavicaya sambojjhaṅga)
+2. The investigation of phenomena factor of enlightenment (*dhammavicaya sambojjhaṅga*)
 
-3. The energy factor of enlightenment (vīriyasambojjhaṅga)
+3. The energy factor of enlightenment (*vīriyasambojjhaṅga*)
 
-4. The rapture factor of enlightenment (pitisambojjhanga)
+4. The rapture factor of enlightenment (*pitisambojjhanga*)
 
-5. The tranquility factor of enlightenment (passaddhisambojjhaṅga)
+5. The tranquility factor of enlightenment (*passaddhisambojjhaṅga*)
 
-6. The concentration factor of enlightenment (samādhisambojjhaṅga)
+6. The concentration factor of enlightenment (*samādhisambojjhaṅga*)
 
-7. The equanimity factor of enlightenment (upekkhāsambojjhaṅga)
+7. The equanimity factor of enlightenment (*upekkhāsambojjhaṅga*)
 
 ## VII. The Noble Eightfold Path (ariya aṭṭhaṅgikamagga)
 
-1. Right view (sammādiṭṭhi)
+1. Right view (*sammādiṭṭhi*)
 
-2. Right intention (sammāsamkappa)
+2. Right intention (*sammāsamkappa*)
 
-3. Right speech (sammāvācā)
+3. Right speech (*sammāvācā*)
 
-4. Right action (sammākammanta)
+4. Right action (*sammākammanta*)
 
-5. Right livelihood (samma ājīva)
+5. Right livelihood (*samma ājīva*)
 
-6. Right effort (sammāvāyāma)
+6. Right effort (*sammāvāyāma*)
 
-7. Right mindfulness (sammāsati)
+7. Right mindfulness (*sammāsati*)
 
-8. Right concentration (sammāsamādhi)[^408]
+8. Right concentration (*sammāsamādhi*)[^408]
 
 [^408]: 408. DN. 2:120. MN. 2:11-12.
