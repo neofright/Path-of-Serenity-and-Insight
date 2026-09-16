@@ -1512,7 +1512,7 @@ After mastering these fourteen modes the meditator should develop the four bases
 
 #### The Six *abhiññās*
 
-### [1] Knowledge of the modes of super-normal power (*iddhividhañāṇa*)
+#### [1] Knowledge of the modes of super-normal power (*iddhividhañāṇa*)
 
 The Pali word iddhi, which we translate as ‘‘supernormal power,” literally means success or accomplishment. The main sense suggested by the word is an ability to perform feats which go against the normal course of natural events. For this reason the iddhis have sometimes been interpreted as supernatural or miraculous powers, but from the Buddhist standpoint these powers do not derive from any supernatural source but from a psychic potency based upon a superior understanding of the inner dynamics of nature. Thus they operate completely within the framework of the law of cause and effect and the ‘‘miracles’’ for which they are responsible remain entirely natural.
 
