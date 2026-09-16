@@ -2552,7 +2552,7 @@ The gradations in the veneration given to arahats on the basis of their mundane 
 
 The Thirty-seven Constituents of Enlightenment (*sattatiṃsā bodhi-pakkhiyadhamma*)
 
-## I. The Four Foundations of Mindfulness (cattāro satipaṭṭhāna)
+## I. The Four Foundations of Mindfulness (*cattāro satipaṭṭhāna*)
 
 1. Contemplation of the body as a foundation of mindfulness (*kāyānupassanā satipaṭṭhāna*)
 
@@ -2562,17 +2562,17 @@ The Thirty-seven Constituents of Enlightenment (*sattatiṃsā bodhi-pakkhiyadha
 
 4. Contemplation of mental objects as a foundation of mindfulness (*dhammānupassanā satipaṭṭhāna*)
 
-## II. The Four Right Endeavors (cattāro sammappadhāna)
+## II. The Four Right Endeavors (*cattāro sammappadhāna*)
 
 1. The effort to prevent unarisen evil states (*anuppannānam pdpakanam akusalanam dhammānaṁ anuppādāya vāyāma*)
 
-2. The effort to abandon arisen evil states (*uppannānaṁ pa&pakanam akusalanam dhammānaṁ pahānāya vāyāma*)
+2. The effort to abandon arisen evil states (*uppannānaṁ pāpakānam akusalanam dhammānaṁ pahānāya vāyāma*)
 
 3. The effort to arouse unarisen wholesome states (*anuppannanam kusalanam dhammena uppādāya vāyāma*)
 
 4. The effort to increase arisen wholesome states (*uppannanam kusalanam dhammanam bhiyyobhāvāya vāyamati*)
 
-## III. The Four Bases of Success (cattāro iddhipāda)
+## III. The Four Bases of Success (*cattāro iddhipāda*)
 
 1. The base of success consisting in zeal (*chandiddhipāda*)
 
@@ -2582,7 +2582,7 @@ The Thirty-seven Constituents of Enlightenment (*sattatiṃsā bodhi-pakkhiyadha
 
 4. The base of success consisting in inquiry (*vimamsiddhipada*)
 
-## IV. The Five Spiritual Faculties (paficindriyanz)
+## IV. The Five Spiritual Faculties (*pañcindriyani*)
 
 1. The faculty of faith (*saddhindriya*)
 
@@ -2594,7 +2594,7 @@ The Thirty-seven Constituents of Enlightenment (*sattatiṃsā bodhi-pakkhiyadha
 
 5. The faculty of wisdom (*paññindriya*)
 
-## V. The Five Spiritual Powers (pañca balāni)
+## V. The Five Spiritual Powers (*pañca balāni*)
 
 1. The power of faith (*saddhābala*)
 
@@ -2606,7 +2606,7 @@ The Thirty-seven Constituents of Enlightenment (*sattatiṃsā bodhi-pakkhiyadha
 
 5. The power of wisdom (*paññābala*)
 
-## VI. The Seven Factors of Enlightenment (satta bojjhaṅga)
+## VI. The Seven Factors of Enlightenment (*satta bojjhaṅga*)
 
 1. The mindfulness factor of enlightenment (*satisambojjhaṅga*)
 
@@ -2622,7 +2622,7 @@ The Thirty-seven Constituents of Enlightenment (*sattatiṃsā bodhi-pakkhiyadha
 
 7. The equanimity factor of enlightenment (*upekkhāsambojjhaṅga*)
 
-## VII. The Noble Eightfold Path (ariya aṭṭhaṅgikamagga)
+## VII. The Noble Eightfold Path (*ariya aṭṭhaṅgikamagga*)
 
 1. Right view (*sammādiṭṭhi*)
 
