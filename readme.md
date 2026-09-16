@@ -2123,7 +2123,11 @@ As before, the ardent meditator resumes contemplation on the impermanence, suffe
 
 #### The fourth path and fruit
 
-Again, either in the same session or at some future time, the meditator sharpens his faculties, powers, and enlightenment factors, contemplating the three characteristics of formations. He ascends through the series of insights up to equanimity about formations. When his faculties mature there arise in him conformity and change-of-lineage, followed by the fourth and final path, the path of arahatship (*arahattamagga*). This path eradi1. AN. 2:238. 2. Ibid. cates the remaining five fetters—desire for existence in the fine material realm, desire for existence in the immaterial realm, conceit, restlessness, and ignorance. The path is followed immediately by its fruition, the fruit of arahatship (*arahattaphala*), after which reviewing knowledge occurs. The text reads: “With the destruction of the cankers he here and now enters and dwells in the cankerless liberation of mind, liberation by wisdom, realizing it for himself with direct knowledge.””#
+Again, either in the same session or at some future time, the meditator sharpens his faculties, powers, and enlightenment factors, contemplating the three characteristics of formations. He ascends through the series of insights up to equanimity about formations. When his faculties mature there arise in him conformity and change-of-lineage, followed by the fourth and final path, the path of arahatship (*arahattamagga*). This path eradicates the remaining five fetters—desire for existence in the fine material realm, desire for existence in the immaterial realm, conceit, restlessness, and ignorance. The path is followed immediately by its fruition, the fruit of arahatship (*arahattaphala*), after which reviewing knowledge occurs. The text reads: “With the destruction of the cankers he here and now enters and dwells in the cankerless liberation of mind, liberation by wisdom, realizing it for himself with direct knowledge.””#
+
+[^334]: 334. AN. 2:238.
+
+[^335]: 335. Ibid.
 
 At the moment of the path the yogin is reckoned as one standing on the path of arahatship, the seventh noble person; at the moment of fruition he becomes an arahat, the eighth noble person. At this point he has completed the development of the path and reached the goal of full liberation.
 
@@ -2135,11 +2139,11 @@ The eight individuals, from the person standing on the path of stream-entry to t
 
 The stream-enterer, he who has entered the path to the realization of the fruit of stream-entry, the once-returner, he who has entered the path to the realization of the fruit of oncereturner, the non-returner, he who has entered the path to the realization of the fruit of non-returner, the arahat, and he who has entered the path to arahatship.³
 
-[^334]: 334. AN. 2:238.
+[^336]: 336. AN. 2:238.
 
-[^335]: 335. PP., p. 792. Vism., i. 582.
+[^337]: 337. PP., p. 792. Vism., i. 582.
 
-[^336]: 336. AN. 4:292-93.
+[^338]: 338. AN. 4:292-93.
 
 ## VIII. JHANA AND THE NOBLE ATTAINMENTS
 
@@ -2159,9 +2163,9 @@ The fullest treatment of the supramundane *jhānas*  in the authoritative Pali l
 
 It then goes on to enumerate the various wholesome mental pheomena present on the occasion of that consciousness, defining each of these by their standard synonyms. We will consider the most significant auxiliary constituents of the supramundane *jhānas*  shortly, but first it is instructive to look at the introductory phrase itself in the light of its commentarial elucidation.
 
-[^337]: 337. Dhs., pp. 74-86.
+[^339]: 339. Dhs., pp. 74-86.
 
-[^338]: 338. “Yasmiṃ samaye lokuttararn jhānarh bhāveti niyyanikarh apacayagāmī ditthigatanam pahānāya pathamaya bhūmiyā pattiya vivicceva kāmehi ..paṭhamaṃ jhānarh upasampajja viharati.” Dhs., p. 72.
+[^340]: 340. “Yasmiṃ samaye lokuttararn jhānarh bhāveti niyyanikarh apacayagāmī ditthigatanam pahānāya pathamaya bhūmiyā pattiya vivicceva kāmehi ..paṭhamaṃ jhānarh upasampajja viharati.” Dhs., p. 72.
 
 The Aṭṭhasālinī explains the word lokuttara, which we have been translating “‘supramundane,”’ as meaning “‘it crosses over the world, it transcends the world, it stands having surmounted and overcome the world.’! It glosses the phrases ‘‘one develops jhāna’’ thus: ‘‘One develops, produces, cultivates absorption *jhāna* lasting for a single thought-moment.”’ This gloss shows us two things about the consciousness of the path: first that it occurs as a *jhāna* at the level of full absorption (*appanā*), and second that this absorption of the path lasts for only a single thought-moment (*ekacittakkhaṇika*). The word “emancipating’’ (*niyyānika*) is explained to mean that this *jhāna* goes out (*niyyāti*) from the world, from the round of existence, the phrase “‘leading to demolition” (*apacayagāmī*) that it demolishes and dismantles the process of rebirth.
 
@@ -2169,9 +2173,9 @@ This last phrase points to a striking difference between mundane and supramundan
 
 > The wholesome states of the three planes are said to lead to accumulation because they build up and increase death and rebirth in the round. But not this. Just as when one man has built up a wall eighteen feet high another might take a club and go along demolishing it, so this goes along demolishing and dismantling the deaths and rebirths built up by the wholesome kammas of the three planes by bringing about a deficiency in their conditions. Thus it leads to demolition.?
 
-[^339]: 339. “Yasmiṃ samaye riipipapattiya maggarh bhāveti vivicceva kāmehi ..paṭhamaṃ jhānarh upasampajja viharati.’? Dhs., p. 44.
+[^341]: 341. “Yasmiṃ samaye riipipapattiya maggarh bhāveti vivicceva kāmehi ..paṭhamaṃ jhānarh upasampajja viharati.’? Dhs., p. 44.
 
-[^340]: 340. Dhs. A., p. 259.
+[^342]: 342. Dhs. A., p. 259.
 
 The *jhāna* is said to be cultivated “‘for the abandoning of views.” This phrase signifies the function of the first path, which is to eradicate the fetters. The supramundane *jhāna* of the first path cuts off the fetter of personality view and all speculative views derived from it. The Atthasālinī points out that here we should understand that it abandons not only wrong views but other unwholesome states as well, namely doubt, clinging to rites and rituals, and greed, hatred, and delusion strong enough to lead to the plane of misery. The phrase “‘for reaching the first plane” the commentary explicates as meaning for attaining the fruit of stream entry.
 
@@ -2179,19 +2183,19 @@ Immediately after this passage the Dhammasaṅgaṇī lists the constituent phen
 
 We saw earlier (pp. 94-95) that the *Abhidhammattha Saṅgaha* attributes thirty-five possible mental factors to the first mundane jkana. This invites a comparison between the composition of the two states. Firstly it will be noticed that compassion and sympathetic joy can be present in mundane *jhāna* but not in the supramundane. The reason is that those mental factors have sentient beings for object, while the paths and fruits objectify nibbāna.” Secondly we should note that the three abstinences (*viratittaya*) are present in the supramundane *jhānas*  but not in the mundane.
 
-[^341]: 341. Nārada, Manual., pp. 127-29. NB: The higher *jhānas*  have respectively thirty-seven, thirty-six, and thirty-five components as applied thought, sustained thought, and rapture are abandoned at these levels.
+[^343]: 343. Nārada, Manual., pp. 127-29. NB: The higher *jhānas*  have respectively thirty-seven, thirty-six, and thirty-five components as applied thought, sustained thought, and rapture are abandoned at these levels.
 
-[^342]: 342. The other two immeasurables—loving kindness and equanimity—are particular modes of the mental factors “‘non-hatred’’ and “specific neutrality.” Since their pareat factors do not necessarily have sentient beings for object they can be present even with other objects and are, in fact, universal concomitants of wholesome states of consciousness.
+[^344]: 344. The other two immeasurables—loving kindness and equanimity—are particular modes of the mental factors “‘non-hatred’’ and “specific neutrality.” Since their pareat factors do not necessarily have sentient beings for object they can be present even with other objects and are, in fact, universal concomitants of wholesome states of consciousness.
 
 This is because in mundane consciousness an abstinence is only present on an occasion when one is deliberately exercising restraint of speech, body, or livelihood. In mundane *jhāna* no such restraint is being applied; it is only applied in wholesome sense sphere consciousness when one is resisting the impulse towards moral transgression. Even then only one abstinence can occur at a time, and only with respect to one violation covered by the abstinence—for right speech abstaining from lying, slander, harsh speech, or idle chatter; for right action abstaining from killing, stealing, or sexual misconduct; for right livelihood abstaining from one or another form of wrong livelihood. But in the supramundane *jhānas*  the three abstinences occur simultaneously, and they occur with respect to all the violations covered by the abstinence. In the paths they have the function not merely of inhibiting immoral actions, but of destroying the tendencies for these transgressions to occur. For this reason the Dhammasaṅgaṇī describes each abstinence as setughāta, “breaking the bridge,” which the commentary explains as meaning that the abstinence uproots the condition for misconduct of speech, action or livelihood.?
 
 In the Dhammasangani’s enumeration of states, the factor of wisdom enters into the supramundane *jhānas*  as three new faculties spread out over the four paths and fruits. These three are the faculty of “I shall know the unknown” (*anaññātaññassāmītindriya*), the faculty of final knowledge (*aññindriya*), and the faculty of the completion of final knowledge (*aññātavindriya*).* The first is present in the first path, the second in the six intermediate states from the first fruition through the fourth path, and the third in the fourth fruition, the fruit of arahatship. The faculty of “I shall know the unknown” is the wisdomfaculty of one standing on the path of stream-entry, the “unknown” being, according to the commentary, the deathless state of *nibbāna* or the Four Noble Truths, neither of which has been known before in beginningless saṃsāra.³ The faculty of final knowledge is the faculty of wisdom in those at the intermediate stages of progress, while the faculty of the completion of final knowledge is the fully matured wisdom of the arahat. None of these faculties is present as such in mundane *jhāna*.
 
-[^343]: 343. Dhs. A., p. 264.
+[^345]: 345. Dhs. A., p. 264.
 
-[^344]: 344. Dhs., pp. 77, 91, 138.
+[^346]: 346. Dhs., pp. 77, 91, 138.
 
-[^345]: 345. Dhs. A., p. 261.
+[^347]: 347. Dhs. A., p. 261.
 
 A good number of constituent factors present in mundane *jhāna* are repeated again in the analysis of supramundane *jhāna*, but to these the Dhammasaṅgaṇī adds two qualifying phrases not given in the definitions of their mundane counterparts. These are the phrases “‘path factor” (*maggaṅga*) and “enlightenment factor” (*bojjhaṅga*). The former attaches to all those states which, under one or another of their different names, enter into the Noble Eightfold Path as right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness and right concentration.1 Though five of these states—right view, right intention, right effort, right mindfulness, and right concentration—are present in mundane *jhāna*, they are not present as path factors for on those occasions they do not pertain to the noble path leading directly to the cessation of suffering.
 
@@ -2199,13 +2203,13 @@ The phrase “‘enlightenment factor” attaches to the states belonging to the
 
 Besides these, several other differences between mundane and supramundane *jhāna* may be briefly noted. Firstly, with regard to their object, the mundane *jhānas*  have a conceptual entity (*paññatti*) as object; for the *kasiṇas*, impurities, mindfulness of breathing, etc. the object is the counterpart sign, for the divine abodes (*brahmavihāra*) it is sentient beings. In contrast, for the supramundane *jhāna* of the paths and fruits the object is exclusively *nibbāna*, a truly existent state (*sabhāvadhamma*).
 
-[^346]: 346. It should be noted that in the paths and fruits occurring at the level of the second through fifth *jhānas* , only seven path factors are present. This is because right intention (sammdsamkappa) is a form of *vitakka*, which subsides with the attainment of the second *jhāna*. Similarly, in the paths and fruits of the fourth and fifth *jhānic* levels only six enlightenment factors are present, rapture having been abandoned with the attainment of the fourth *jhāna* of the fivefold system.
+[^348]: 348. It should be noted that in the paths and fruits occurring at the level of the second through fifth *jhānas* , only seven path factors are present. This is because right intention (sammdsamkappa) is a form of *vitakka*, which subsides with the attainment of the second *jhāna*. Similarly, in the paths and fruits of the fourth and fifth *jhānic* levels only six enlightenment factors are present, rapture having been abandoned with the attainment of the fourth *jhāna* of the fivefold system.
 
 With regard to their predominant tone, in mundane *jhāna* the element of serenity prevails. Though the factor of wisdom enters into the mundane *jhānas*  it does not do so with any special prominence. In contrast, the supramundane *jhāna* of the paths and fruits brings serenity and insight into balance. Wisdom is present as right view (*sammadiṭṭhi*) and serenity as right concentration (*sammāsamādhi*). Both function together in perfect harmony, neither one exceeding the other.
 
 This difference in prevailing tone leads into a difference in function or activity between the two kinds of *jhāna*. Both the mundane and supramundane are *jhānas*  in the sense of closely attending (*upanijjhāna*) but in the case of mundane *jhāna* this close attention issues merely in an absorption into the object, an absorption that tan only suppress the defilements temporarily. In the supramundane *jhāna*, particularly of the four paths, the coupling of close attention with wisdom brings the exercise of four functions at a single moment. These four functions each apply to one of the Four Noble Truths, representing the particular way that noble truth is penetrated at the time the paths arise comprehending the truths. The four functions are full understanding (*pariññā*), abandonment (*pahāna*), realization (*sacchikiriyā*), and development (*bhāvanā*). The path penetrates the first noble truth by fully understanding suffering; it penetrates the second noble truth by abandoning craving, the origin of suffering; it penetrates the third noble truth by realizing *nibbāna*, the cessation of suffering; and it penetrates the fourth noble truth by developing the Noble Eightfold Path, the way to the end of suffering. The Visuddhimagga quotes a passage from the ancients to clear away doubts that one experience can perform four functions simultaneously:
 
-[^347]: 347. See Pts., p. 288.
+[^349]: 349. See Pts., p. 288.
 
 > For this is said by the Ancients, ‘just as a lamp performs four functions simultaneously in a single moment—it burns the wick, dispels darkness, makes light appear, and uses up the oil— so too, path knowledge penetrates to the four truths simultaneously in a single moment—it penetrates to suffering by penetrating to it with full-understanding, penetrates to origination by penetrating to it with abandoning, penetrates to the path by penetrating to it with developing and penetrates to cessation by penetrating to it with realizing. What is meant? By making cessation its object it reaches, sees and pierces the four truths’.¹
 
@@ -2214,11 +2218,11 @@ Filling in the simile, Buddhaghosa explains that as the lamp burns the wick the 
 ### The *jhānic* Level of the Path and Fruit
 When the paths and fruits are assigned to the level of the four or five *jhānas*, the question arises as to what factor determines their particular level of *jhānic* intensity. In other words, why do the path and fruit arise for one yogin at the level of the first *jhāna*, for another at the level of the second *jhāna*, and so forth? The Visuddhimagga and the Atthasālinī deal with this issue in terms of the question as to what governs the difference in the number of the noble path’s enlightenment factors (*bojjhaṅga*), path factors (*maggaṅga*) and *jhāna* factors (*jhānaṅga*). The texts present three theories concerning the determinant of the *jhānic* level of the path. These theories were apparently formulated by ancient commentators and handed down in succession through their lineages of pupils. The first, ascribed to the Elder Tipiṭaka Cila Naga, holds that it is the basic *jhāna* (*pādakajjhāna*), i.e. the *jhāna* used as a basis for the insight leading to emergence in immediate proximity to the path, that governs the difference in the *jhānic* level of the path. A second theory, ascribed to the Elder Maha Datta of Moravapi, says that the difference is governed by the aggregates made the objects of insight (vipassanāya drammanabhita khandha) on the occasion of insight leading to emergence. A third theory, ascribed to the Elder Tipiṭaka Cūḷa Abhaya, holds that it is the personal inclination (fuggalajjhdsaya) of the meditator that governs the difference.
 
-[^348]: 348. PP., pp. 808. Vism., p. 593.
+[^350]: 350. PP., pp. 808. Vism., p. 593.
 
-[^349]: 349. “Phalarh pana nirodhasaccam tathalakkbanaṁ upanijjhāyati.” Dhs.. A. p. 211.
+[^351]: 351. “Phalarh pana nirodhasaccam tathalakkbanaṁ upanijjhāyati.” Dhs.. A. p. 211.
 
-[^350]: 350. PP., pp. 778-80. Vism., pp. 572-73. Dhs. A., pp. 271-74.
+[^352]: 352. PP., pp. 778-80. Vism., pp. 572-73. Dhs. A., pp. 271-74.
 
 According to the first theory, the path arisen in a dry insight meditator who lacks *jhāna*, and the path arisen in one who possesses a *jhāna* attainment but does not use it as a basis for insight, and the path arisen by comprehending formations after emerging from the first *jhāna*, are all paths of the first *jhāna* only. They all have eight path factors, seven enlightenment factors, and five *jhāna* factors. When the path is produced after emerging from the second, third, fourth, and fifth *jhānas*, and using these as the basis for insight, then the path pertains to the level of the *jhāna* used as a basis—the second, third, fourth or fifth. The path will have respectively, four, three, two, and again two *jhāna* factors. However, these paths will possess only seven path factors, since “right intention” (*sammāsaṅkappa*), as a mode of applied thought (*vitakka*), has been eliminated in the second and higher *jhānas*. Those paths associated with the fourth and fifth *jhānas*  will also lack the enlightenment factor of rapture (*pītisambojjhaṅga*), and thus have only six enlightenment factors. For a meditator using an immaterial *jhāna* as basis the path will be a fifth *jhāna* path.
 
@@ -2232,9 +2236,9 @@ The difference between the three theories can be understood through a simple exa
 
 Buddhaghosa himself does not make a decision among these three theories. He only points out that in all three doctrines, beneath their disagreements, there is the recognition that the insight leading to emergence determines the *jhānic* character of the path. For this insight is the proximate and principal cause for the arising of the path, so whether it be the insight leading to emergence near the basic *jhāna* or that occurring through the contemplated *jhāna* or that fixed by the meditator’s wish, it is in all cases this final phase of insight that gives definition to the supramundane path, fixing its path factors and *jhāna* factors.? Since fruition that occurs immediately after the path hasan iden. tical constitution to the path, its own supramundane *jhāna* is determined by the path. Thus a first *jhāna* path produces a first *jhāna* fruit, and so on for the remaining *jhānas*.
 
-[^351]: 351. Dhs.A., p.. 274. Expositor, 2:310.
+[^353]: 353. Dhs.A., p.. 274. Expositor, 2:310.
 
-[^352]: 352. PP., pp. 778-79. Vism., p. 573.
+[^354]: 354. PP., pp. 778-79. Vism., p. 573.
 
 ### Two Attainments of the Noble Ones
 
@@ -2252,9 +2256,9 @@ Fruition attainment is beyond the range of worldlings but is available to all no
 
 The ariyans resort to this attainment for the purpose of experiencing nibbanic bliss here and now. They enter it by turning the mind away from all mundane objects and focus singit exclusively upon nibbāna. To attain fruition the noble disciple should go into solitary retreat, make a prior determination to enter fruition and then develop insight on formations, going through the series of insights beginning with knowledge of rise and fall. Insight progresses as far as conformity, followed by change-of-lineage knowledge with formations as its object; then “immediately next to it consciousness becomes absorbed in cessation with the attainment of fruition.”’? Since the prior determination was made for fruition, not for a higher path, insight only issues in fruition attainment and not in a higher path. The attainment of the latter requires a separate and different guiding aspiration before developing insight.
 
-[^353]: 353. PP., p. 820. “Ya ariyaphalassa nirodhe appanā.’”’ Vism., p. 602. ‘‘Ariyassa phalajhanassa nibbāne ārammanabhute appanakarena pavatti.” Vism. T. 2:515.
+[^355]: 355. PP., p. 820. “Ya ariyaphalassa nirodhe appanā.’”’ Vism., p. 602. ‘‘Ariyassa phalajhanassa nibbāne ārammanabhute appanakarena pavatti.” Vism. T. 2:515.
 
-[^354]: 354. PP., p. 822. Vism., p. 603. N.B.: Whereas change-of-lineage preceding the path has *nibbāna* for its object, change-of-lineage preceding fruition attainment objectifies formations. The reason is given in the Visuddhimagga Mahā Tika: “Why does change-of-lineage not have *nibbāna* as its object here as it does when it precedes the path? Because states belonging to fruition are not associated with an outlet [as in the case of the path]. For this is said ‘What states are an outlet? The four unincluded paths’.” Vism. T. 2:518.
+[^356]: 356. PP., p. 822. Vism., p. 603. N.B.: Whereas change-of-lineage preceding the path has *nibbāna* for its object, change-of-lineage preceding fruition attainment objectifies formations. The reason is given in the Visuddhimagga Mahā Tika: “Why does change-of-lineage not have *nibbāna* as its object here as it does when it precedes the path? Because states belonging to fruition are not associated with an outlet [as in the case of the path]. For this is said ‘What states are an outlet? The four unincluded paths’.” Vism. T. 2:518.
 
 Fruition attainment is made to last by a prior volition determining the time of the attainment: for it is by determining it thus ‘I shall emerge at such a time’ that it lasts until that time comes. Emergence comes when the mind turns away from *nibbāna* and takes as its object some sign of formations. Immediately after fruition attainment ends the mind lapses into the life-continuum (*bhavaṅga*). Fruition attainment also occurs momentarily in the process of emerging from the attainment of cessation.
 
@@ -2264,7 +2268,7 @@ Fruition attainment acquires three names according to the dominant mode of insig
 
 A second attainment in the meditative field restricted to yogins of ariyan stature is the attainment of cessation, nirodhamdsapatit, also called the cessation of perception and feeling (*saññāvedayitanirodha*). The distinguishing feature of this attainment is the cessation of all mental activity in its entirety, for which reason the Visuddhimagga defines it as “‘the non-occurrence of consciousness and its concomitants owing to their progressive cessation.”’!
 
-[^355]: 355. Nārada, Manual., pp. 422-23. MN. 1:298.
+[^357]: 357. Nārada, Manual., pp. 422-23. MN. 1:298.
 
 The attainment of cessation can be obtained only by nonreturners and arahats who possess the eight mundane attainments, i.e. the four *jhānas*  and the four *āruppas*. Worldlings, streamenterers, and once-returners—even those possessing all eight attainments—cannot obtain it, nor can it be obtained by nonreturners and arahats who lack mastery over the eight attainments. The reason stream-enterers and once-returners cannot attain it is that they lack the necessary qualifications. To attain cessation requires full possession of the two powers of serenity and insight. Because those below the level of a non-returner have not fully abandoned sensual desire, their power of serenity is not perfected, and without the perfecting of the power of serenity there is no attainment of cessation. Cessation can also only be reached in “‘five constituent becoming,” i.e. in realms where all five aggregates are found. It cannot be reached in the immaterial realms since it must be preceded by the four fine material *jhānas*, which are lacking in those realms.
 
@@ -2272,9 +2276,9 @@ Non-returners and arahats with the required qualifications attain to cessation b
 
 A meditator wishing to attain cessation enters the first *jhāna*, emerges from it, and contemplates its formations with insight as impermanent, suffering, and selfless. He repeats the same procedure with each meditative attainment up to the base of nothingness, the next to last immaterial *jhāna*. After emerging from the base of nothingness he then must perform four preparatory tasks. First he resolves that any requisites he has with him that belong to others will not be damaged by fire, water, wind, thieves, rats, etc. while he is in cessation. This resolution gives effective protection during the duration of his attainment; his own belongings are protected from damage by the power of the attainment itself. Secondly he resolves that if he is needed by the community of bhikkhus he will emerge from his attainment before a bhikkhu comes to call him. Thirdly he resolves that if the Buddha needs to summon him he should emerge before a bhikkhu is sent to call him. And fourthly he determines that his life span will last at least seven days from the moment he attains cessation.
 
-[^356]: 356. PP., pp. 824. “Ya anupubbanirodhavasena cittacetasikanarn dhammānaṁ appavatti.”? Vism., p. 604.
+[^358]: 358. PP., pp. 824. “Ya anupubbanirodhavasena cittacetasikanarn dhammānaṁ appavatti.”? Vism., p. 604.
 
-[^357]: 357. PP., p. 828. Vism., p. 607. N.B.: The Visuddhimagga Maha Tiké points out that the phrase “cessation that is nibbāna” means that cessation is similar to the *nibbāna* element without residue (anupādisesa nibbānadhātu). It should not be taken literally as establishing identity between the two. Vism.T. 2:902.
+[^359]: 359. PP., p. 828. Vism., p. 607. N.B.: The Visuddhimagga Maha Tiké points out that the phrase “cessation that is nibbāna” means that cessation is similar to the *nibbāna* element without residue (anupādisesa nibbānadhātu). It should not be taken literally as establishing identity between the two. Vism.T. 2:902.
 
 Having performed these four preparatory tasks, the meditator attains the base of neither perception nor non-perception. Then after one or two turns of consciousness have passed the process of consciousness ceases; he becomes without consciousness, attaining to cessation. The stopping of consciousness takes place automatically, as a result of the meditator’s determination to reach cessation. The meditator will remain in cessation for as long as he has predetermined. But if he has not done the four preliminary tasks, after reaching the base of neither perception nor nonperception he will return to the base of nothingness without attaining cessation.!
 
@@ -2282,7 +2286,7 @@ Like the attaining of cessation, emergence from cessation takes place automatica
 
 in the case ofan arahat. Immediately upon emerging from cessation, the yogin goes through a series of fruition consciousnesses appropriate to his spiritual level. But for all yogins who emerge from cessation the mind inclines to nibbāna. For this reason a nonreturner who has come out from cessation can use his attainment as a basis for achieving arahatship. As the Buddha says: “A bhikkhu, completely passing beyond the base of neither perception nor non-perception, enters and dwells in the cessation of perception and feeling. Having seen with wisdom his cankers are destroyed.”’4
 
-[^358]: 358. PP., pp. 831-32. Vism., p. 610.
+[^360]: 360. PP., pp. 831-32. Vism., p. 610.
 
 The attainment of cessation is the acme of a graduated process of bringing to a stop the formations of body and mind. The bhikkhunī Dhammadinna explains that there are three types of formations—the bodily formation (*kāyasaṅkhāra*), the verbal formation (*vacīsaṅkhāra*), and the mental formation (*cittasaṅkhāra*). The bodily formation is in-and-out breathing, a physiologica] process connected with the body; the verbal formation is applied and sustained thought, the mental factors directing verbalization; the mental formation is perception and feeling, cognitive processes connected with the mind. For one who is entering the attainment of cessation, Dhammadinna states, the verbal formation ceases first (in the second jhāna), the bodily formation ceases next (in the fourth *jhāna*), and the mental formation ceases last (with the entrance into cessation).?
 
@@ -2292,11 +2296,11 @@ The question might arise as to the difference between a corpse and a meditator i
 
 Another question which might arise concerns the differences between the base of neither perception nor non-perception, the attainment of fruition, and the attainment of cessation. The attainment of cessation differs from the first two in that these two are states of consciousness made up of mind and mental factors (*citta-cetasika*) while cessation is not a state of consciousness but the stopping of the mental continuum together with its factors. The fourth *āruppā* is a purely mundane attainment in the sphere of serenity accessible to all meditators with the necessary strength of concentration. Its object is purely mundane—the four aggregates of the third āruppā. It does not presuppose any achievements in insight or any attainment of ariyan stature; it is thus held in common by both Buddhist and non-Buddhist meditators. The attainment of fruition, in contrast, is a supramundane state bringing into balance both serenity and insight. Its object is supramundane, nibbāna. Each fruition is open only to those ariyans who have reached the corresponding level of deliverance and it is entered by a preliminary course of practice in insight contemplation on the three characteristics. The attainment of cessation, as distinct from both, is neither mundane nor supramundane, neither conditioned nor unconditioned. As the cessation of consciousness it takes no object. It is open solely to nonreturners and arahats having the eight attainments and is reached through an alternating course of serenity and insight. Moreover, to enter the attainment of cessation requires the fulfilment of the four preliminary tasks, while such preparations are not needed for the base of neither perception nor non-perception or for the attainment of fruition.
 
-[^359]: 359. MN. 1:175.
+[^361]: 361. MN. 1:175.
 
-[^360]: 360. MN. 1:302. See also SN. 4:217.
+[^362]: 362. MN. 1:302. See also SN. 4:217.
 
-[^361]: 361. PP., pp. 832-33. MN. 1:296.
+[^363]: 363. PP., pp. 832-33. MN. 1:296.
 
 ### The Seven Types of Noble Persons
 
@@ -2312,11 +2316,11 @@ The Puggalapaññatti definition reads:
 
 > What person is faith-devotee? In a person practising for the realization of the fruit of stream-entry the faculty of faith is predominant; he develops the noble path led by faith, with faith as the forerunner. This person is called a faith-devotee. A person practising for the realization of the fruit of streamentry is a faith-devotee. When established in the fruit he is one liberated by faith.®
 
-[^362]: 362. In Pali: [1] saddhānusārī, [2] saddhāvimutta, [3] kāyasakkhi, [4] ubhatobhāgavimutta [5] dhammanusārī [6] diṭṭhippatta, and [7] paññāvimutta.
+[^364]: 364. In Pali: [1] saddhānusārī, [2] saddhāvimutta, [3] kāyasakkhi, [4] ubhatobhāgavimutta [5] dhammanusārī [6] diṭṭhippatta, and [7] paññāvimutta.
 
-[^363]: 363. MN. 1:479.
+[^365]: 365. MN. 1:479.
 
-[^364]: 364. Pug. P., p. 182.
+[^366]: 366. Pug. P., p. 182.
 
 Whereas the sutta explanation explicitly mentions the lack of the ‘‘peaceful immaterial deliverances’’, i.e. the four immaterial *jhānas* , the Puggalapaññatti omits this, but mentions his status as a person on the path of stream-entry. Both concur in recognizing the faith-devotee as a disciple with predominance of faith.
 
@@ -2330,9 +2334,9 @@ As in the case of the faith-devotee, the one liberated by faith, while lacking t
 
 The Puggalapaññatti states that the person liberated by faith is one who understands the Four Noble Truths, has seen and verified by means of wisdom the dhammas proclaimed by the Tathāgata, and having seen with wisdom has eliminated some of his cankers. However, he has not done so as easily as the diṭṭhippatta, the person attained to understanding, whose progress is easier due to his superior wisdom.? The fact that the one liberated by faith has destroyed only some of his cankers implies that he has advanced beyond the first path but not yet reached the final fruit, the fruition of arahatship.?
 
-[^365]: 365. PP., p. 770. Vism., p. 566.
+[^367]: 367. PP., p. 770. Vism., p. 566.
 
-[^366]: 366. MN. 1:478.
+[^368]: 368. MN. 1:478.
 
 [3] The ‘“‘body witness” is a noble disciple at the six intermediate levels, from the fruit of stream-entry to the path of arahatship, who has a predominance of the faculty of concentration and can obtain the immaterial *jhānas*. The sutta explanation reads:
 
@@ -2340,15 +2344,15 @@ The Puggalapaññatti states that the person liberated by faith is one who under
 
 The Puggalapaññatti offers a slight variation on this phrasing: ‘“‘What person is a body-witness? Here some person has reached with his own mental body the eight deliverances, and having seen with wisdom, some of his cankers are destroyed.’’* For the sutta’s “immaterial deliverances” (āruppā vimokkha) the Puggalapaññatti substitutes ‘‘the eight deliverances” (*aṭṭhavimokkha*). These eight deliverances consist of three meditative attainments pertaining to the fine material sphere (inclusive of all four lower *jhānas*), the four immaterial *jhānas*, and the attainment of cessation.® But though the Puggalapaññatti makes this reformulation, it should not be thought either that the achievement of all eight deliverances is necessary to become a body-witness or that the achievement of the three lower deliverances is sufficient. What is both requisite and sufficient to receive the designation “‘body witness’ is the partial destruction of defilements coupled with the attainment of at least the lowest immaterial *jhāna*. Thus the bodywitness becomes fivefold by way of those who obtain any of the four immaterial *jhānas*  and the one who also obtains the attainment of cessation.?
 
-[^367]: 367. Pug. P., pp. 184-85.
+[^369]: 369. Pug. P., pp. 184-85.
 
-[^368]: 368. The Visuddhimagga, however, says that arahats in whom faith is predominant can also be called “liberated by faith” (PP., p. 770. Vism., p. 566). Its Tikā points out that this remark is only intended figuratively, not literally, in the sense that for those arahats arahatship results from being saddhāvimutta at the moment of the fourth path. Literally such arahats would be *paññāvimutta*. (Vism. T. 2:468).
+[^370]: 370. The Visuddhimagga, however, says that arahats in whom faith is predominant can also be called “liberated by faith” (PP., p. 770. Vism., p. 566). Its Tikā points out that this remark is only intended figuratively, not literally, in the sense that for those arahats arahatship results from being saddhāvimutta at the moment of the fourth path. Literally such arahats would be *paññāvimutta*. (Vism. T. 2:468).
 
-[^369]: 369. MN. 1:478.
+[^371]: 371. MN. 1:478.
 
-[^370]: 370. Pug. P., p. 184.
+[^372]: 372. Pug. P., p. 184.
 
-[^371]: 371. DN.3:159. MN. 2:12. See Vajirafiana, Buddhist Meditation, pp. 484-86.
+[^373]: 373. DN.3:159. MN. 2:12. See Vajirafiana, Buddhist Meditation, pp. 484-86.
 
 The Visuddhimagga connects the body-witness with suffering as a subject of insight and concentration as a predominant faculty: ‘When a man brings (formations) to mind as painful and, having great tranquillity, acquires the faculty of concentration, he is called a body-witness in all eight instances,”’? i.e. from the path of stream-entry through arahatship. Its Ṭīkā explains that this extension of the scope of body-witness to persons on the first path and to arahats is figurative in intention and should not be taken as literal. Literally, a body-witness is found only in the intermediate six stages. According to the Ṭīkā “‘one with the eight attainments on the first path would have to be either a faithdevotee or a truth-devotee; the same person at the final fruition would be one liberated in both ways (*ubhatobhāgavimutta*).’’8
 
@@ -2356,17 +2360,17 @@ The Visuddhimagga connects the body-witness with suffering as a subject of insig
 
 > And what person, monks, is liberated in both ways? Herein, monks, someone has reached with his own (mental) body those peaceful immaterial deliverances transcending material form, and having seen with wisdom, his cankers are destroyed. ‘This person, monks, is called liberated in both ways.®
 
-[^372]: 372. Vism. T. 2:466.
+[^374]: 374. Vism. T. 2:466.
 
-[^373]: 373. PP., p. 770. Vism., p. 566.
+[^375]: 375. PP., p. 770. Vism., p. 566.
 
-[^374]: 374. Vism. T. 2:466. The position that one with the eight attainments on the first path can be a faith-devotee or a truth-devotee conflicts with the explanation of these types in the Kiṭāgiri Sutta. However, the sevenfold typology of this sutta makes no provision for a disciple of the first path who gains the immaterial *jhānas*.
+[^376]: 376. Vism. T. 2:466. The position that one with the eight attainments on the first path can be a faith-devotee or a truth-devotee conflicts with the explanation of these types in the Kiṭāgiri Sutta. However, the sevenfold typology of this sutta makes no provision for a disciple of the first path who gains the immaterial *jhānas*.
 
 The Puggalapaññatti gives basically the same formula, but replaces “immaterial deliverances” with “the eight deliverances.”’! The same principle of interpretation that applied to the body-witness applies here: the attainment of any immaterial *jhāna*, even the lowest, is sufficient to qualify a person as bothways liberated. As the Mahāṭīkā says: ‘‘one who has attained arahatship after gaining even one [immaterial jhāna] is liberated in both ways.’’? This type becomes fivefold by way of those who attain arahatship after emerging from one or another of the four āruppās, and the one who attains arahatship after emerging from the attainment of cessation.?
 
-[^375]: 375. “Arūpasamāpattiyā rupakayato vimutto. Maggena namakdyato.” MN.A. 2:131.
+[^377]: 377. “Arūpasamāpattiyā rupakayato vimutto. Maggena namakdyato.” MN.A. 2:131.
 
-[^376]: 376. MN. 1:477.
+[^378]: 378. MN. 1:477.
 
 [5] The “‘truth-devotee” is a disciple on the first path in whom the faculty of wisdom is predominant. Here “‘dhamma’”’ has the meaning of wisdom. The Buddha explains the truthdevotee as follows:
 
@@ -2374,15 +2378,15 @@ The Puggalapaññatti gives basically the same formula, but replaces “immateri
 
 The Puggalapaññatti defines the truth-devotee in the same way as the faith-devotee, except that it substitutes wisdom for faith as the predominant faculty and as the leader and forerunner in the development of the path. It adds that when a truth-devotee is established in the fruit of stream-entry he becomes one attained to understanding (*diṭṭhippatta*).6 The sutta and Abhidhamma works again differ as to emphasis, the one stressing lack of the immaterial *jhānas*, the other the ariyan stature. The Visuddhimagga connects the truth-devotee with the contemplation of selflessness: ““When a man brings [formations] to mind as not self and having great wisdom, acquires the faculty of understanding, he becomes a Dhamma-devotee at the moment of the streamentry path.’! Presumably, though the four immaterial *jhānas* are denied for the truth-devotee, he may have any of the four fine material *jhānas*  or be a bare insight practitioner without any mundane *jhāna*.
 
-[^377]: 377. Pug. P., p. 184.
+[^379]: 379. Pug. P., p. 184.
 
-[^378]: 378. Vism. T. 2:466.
+[^380]: 380. Vism. T. 2:466.
 
-[^379]: 379. MN.A. 3:131.
+[^381]: 381. MN.A. 3:131.
 
-[^380]: 380. MN. 1:479.
+[^382]: 382. MN. 1:479.
 
-[^381]: 381. Pug. P., p. 185.
+[^383]: 383. Pug. P., p. 185.
 
 [6] The one attained to understanding is a noble disciple at the six intermediate levels who lacks the immaterial *jhānas*  and has a predominance of the wisdom faculty. The Buddha explains:
 
@@ -2396,15 +2400,15 @@ The Puggalapaññatti defines the one attained to understanding as a person who 
 
 The Puggalapaññatti’s definition merely replaces “immaterial deliverances” with ‘‘the eight deliverances.’’> Though such arahats do not reach the immaterial *jhānas*  it is quite possible for them to attain the lower *jhānas*. The sutta commentary in fact states that the one liberated by wisdom is fivefold by way of the dry insight-worker and the four who attain arahatship after emerging from the four *jhānas*.
 
-[^382]: 382. PP., p. 770. Vism., p. 566.
+[^384]: 384. PP., p. 770. Vism., p. 566.
 
-[^383]: 383. MN. 1:478.
-
-[^384]: 384. Pug. P., p. 185.
-
-[^385]: 385. MN. 1:477-78.
+[^385]: 385. MN. 1:478.
 
 [^386]: 386. Pug. P., p. 185.
+
+[^387]: 387. MN. 1:477-78.
+
+[^388]: 388. Pug. P., p. 185.
 
 It should be noted that the one liberated by wisdom is contrasted not with the one liberated by faith, but with the one liberated in both ways. The issue that divides the two types of arahat is the lack or possession of the four immaterial *jhānas*  and the attainment of cessation. The person liberated by faith is found at the six intermediate levels of sanctity, not at the level of arahatship. When he obtains arahatship, lacking the immaterial *jhānas*, he becomes one liberated by wisdom even though faith rather than wisdom is his predominant faculty. Similarly a meditator with predominance of concentration but lacking the immaterial attainments also becomes one liberated by wisdom when he attains arahatship. But a yogin who reaches arahatship while possessing the immaterial attainments will still be “one liberated in both ways” even if wisdom rather than concentration claims first place among his spiritual endowments, as was the case with the Venerable Sāriputta.
 
@@ -2422,15 +2426,15 @@ Here, when the dry-insight worker is distinguished from the jhānaattainer who d
 
 Further evidence for the existence of arahats lacking mundane *jhāna* is provided by the Susīma Sutta together with its commentaries.2 In this sutta the monk Susīma is perplexed about a group of monks who claim to have reached arahatship yet deny possessing supernormal powers or the peaceful deliverances of the immaterial sphere. To the question how they can be arahats without these attainments they reply: “We are liberated by wisdom” (*paññāvimutta kho mayam*). Confused by this answer, Susīma goes to the Buddha for clarification. The Buddha declares: “Susīma, first the knowledge of the structure of phenomena arises, afterwards the knowledge of nibbāna.” Then he explains the impermanence, suffering, and selflessness of the five aggregates. He shows how contemplation of the three characteristics leads to dispassion, detachment and emancipation, elucidates the law of dependent arising, and convinces Susima that knowledge of the causal law can issue in liberation without requiring any possession of supernormal powers or the immaterial attainments.
 
-[^387]: 387. PP., p. 779. Vism., p. 573. 2. SN. 2:119-23.
+[^389]: 389. PP., p. 779. Vism., p. 573. 2. SN. 2:119-23.
 
 It is true that in the sutta itself a lack of *jhāna* is not ascribed to the group of arahats liberated by wisdom. The text only mentions the absence of the five *abhiññās* and the *āruppas*. But the exegetical sources on the sutta fill in the gap, showing that these arahats reached their goal without mundane *jhāna* of absorption level. The commentary rephrases the monks’ reply ““We are liberated by wisdom’’ to make explicit the fact that they are dry insight meditators: ‘“‘We are liberated by wisdom, friend’: we are contemplatives, dry insight workers, liberated by wisdom alone.’’! The commentary explains the knowledge of the structure of phenomena (*dhammaṭṭhitiñāṇa*) as insight knowledge and the knowledge of *nibbāna* (*nibbāne ñāṇa*) as path knowledge. It states that the Buddha gave the long disquisition on insight ‘for the purpose of showing the arising of knowledge even without concentration.”? The subcommentary makes the sutta’s purport still clearer by explaining the commentary’s phrase “even without concentration” as meaning “even without concentration previously accomplished, reaching the characteristic of serenity,’’ adding that “‘this is said in reference to the vipassanāyānika.”’? From all this it follows that these arahats, attaining emancipation by wisdom without prior concentration of the serenity level, lacked mundane *jhāna*. As arahats, however, they would necessarily have reached the supramundane *jhāna* of the paths and fruits, with constant access to the *jhāna* of the attainment of fruition.
 
-[^388]: 388. “Āvuso mayarn nijjhanaka sukkhavipassaka pafifiamatten’eva vimutta ti dasseti.” SN.A. 2:117. N.B.: The word nijjhānakaé is ambiguous: the word nijjhāna is used in the suttas to mean reflection or contemplation and we here follow that usage by rendering its derivative as “‘contemplative” ; but the purport might also be “‘lacking *jhāna*,”’ as the prefix nir sometimes has a privative as well as augmentative meaning.
+[^390]: 390. “Āvuso mayarn nijjhanaka sukkhavipassaka pafifiamatten’eva vimutta ti dasseti.” SN.A. 2:117. N.B.: The word nijjhānakaé is ambiguous: the word nijjhāna is used in the suttas to mean reflection or contemplation and we here follow that usage by rendering its derivative as “‘contemplative” ; but the purport might also be “‘lacking *jhāna*,”’ as the prefix nir sometimes has a privative as well as augmentative meaning.
 
-[^389]: 389. “Vinā pi samadhirh evarh fianuppattidassanattham.”’ Ibid.
+[^391]: 391. “Vinā pi samadhirh evarh fianuppattidassanattham.”’ Ibid.
 
-[^390]: 390. “Samatha lakkhanappattarn purimasiddharṁ vinā pi samadhinti vipassana saṇikaṃ sandhāya vuttarh.”’ SN.T. 2:125. van
+[^392]: 392. “Samatha lakkhanappattarn purimasiddharṁ vinā pi samadhinti vipassana saṇikaṃ sandhāya vuttarh.”’ SN.T. 2:125. van
 
 In contrast to the *paññāvimutta* arahats, those arahats who are *ubhatobhāgavimutta* enjoy a twofold liberation. Through their mastery over the formless attainments they are liberated from the material body (*rūpakāya*), capable of dwelling in this very life in the meditations corresponding to the immaterial planes of existence; through their attainment of arahatship they are liberated from the mental body (*nāmakāya*), presently free from all defilements and sure of final emancipation from future becoming. Paññāvimutta arahats only possess the second of these two liberations.
 
@@ -2440,7 +2444,7 @@ The double liberation of the *ubhatobhāgavimutta* arahat should not be confused
 
 > And how, monks, is a person a red lotus recluse (*samaṇapaduma*)? Here, monks, with the destruction of the cankers a monk here and now enters and dwells in the cankerless liberation of mind, liberation by wisdom, having realized it for himself with direct knowledge. And he dwells experiencing the eight deliverances with his body. Thus, monks, a person is a red lotus recluse.?
 
-[^391]: 391. AN 2:87.
+[^393]: 393. AN 2:87.
 
 Since the description of these two types coincides with that of *paññāvimutta* and *ubhatobhāgavimutta* the two pairs may be identified, the white lotus recluse with the *paññāvimutta*, the red lotus recluse with the ubhatobhāgavimutta. Yet the *paññāvimutta* arahat, while lacking the experience of the eight deliverances, still has both liberation of mind and liberation by wisdom.
 
@@ -2450,13 +2454,13 @@ When liberation of mind and liberation by wisdom are joined together and describ
 
 > By the word ‘mind’ (*ceto*) the concentration concomitant with the fruit of arahatship is meant, by the word ‘wisdony’ the concomitant wisdom is meant. The concentration there is called ‘liberation of mind’ because it has liberated the mind from lust, the wisdom is called ‘liberation by wisdom’ because it has liberated the mind from ignorance.
 
-[^392]: 392. MN. 1:296-98.
+[^394]: 394. MN. 1:296-98.
 
-[^393]: 393. MN. 1:298, SN. 5:423, MN. 1:197.
+[^395]: 395. MN. 1:298, SN. 5:423, MN. 1:197.
 
-[^394]: 394. “...Rāgavirāga cetovimutti avijjāvirāga paññāvimutti.” AN. 1:61.
+[^396]: 396. “...Rāgavirāga cetovimutti avijjāvirāga paññāvimutti.” AN. 1:61.
 
-[^395]: 395. MN. 1:163-84.
+[^397]: 397. MN. 1:163-84.
 
 Since every arahat reaches arahatship through the Noble Eightfold Path, he must have attained supramundane *jhāna* in the form of right concentration, the eighth factor of the path, defined as the four *jhānas*. This *jhāna* remains with him as the concentration of the fruition attainment of arahatship, which occurs at the level of supramundane *jhāna* corresponding to that of his path. Thus he always stands in possession of at least the supramundane *jhāna* of fruition, called the anāsavam cetovimutti, ‘“‘cankerless liberation of mind.’ However, this consideration does not reflect back on his mundane attainments, requiring that every arahat possesses mundane *jhāna*.
 
@@ -2464,15 +2468,15 @@ Nevertheless, though early Buddhism acknowledges the possibility of a dry-vision
 
 On the side of inner experience the *jhānas*  are valued as providing the arahat with a “‘blissful dwelling here and now” (*diṭṭhadhammasukhavihāra*). The suttas often show arahats attaining to *jhāna* and the Buddha himself declares the four *jhānas*  to be figuratively a kind of *nibbāna* in this present life.2 With respect to levels and factors there is no difference between the mundane *jhānas*  of an arahat and those of a non-arahat. The difference concerns their function. For non-arahats the mundane *jhānas*  constitute wholesome kamma; they are deeds with a potential to produce results, to precipitate rebirth in a corresponding realm of existence. But in the case of an arahat mundane *jhāna* is no more kamma. Since he has eradicated ignorance and craving, the roots of kamma, his actions leave no residue; they have no capacity to generate results. For him the *jhānic* consciousness is a mere functional consciousness which comes and goes and once gone disappears without a trace.
 
-[^396]: 396. MN.A. 1:169.
+[^398]: 398. MN.A. 1:169.
 
-[^397]: 397. See AN. 4:453-54.
+[^399]: 399. See AN. 4:453-54.
 
 The value of the *jhānas*  extends beyond the confines of the arahat’s personal experience to testify to the spiritual efficacy of the Buddha’s dispensation itself. The *jhānas*  are regarded as ornamentations of the yogin, testimonies to the accomplishment of the spiritually perfect man and the effectiveness of the teaching he follows. A worthy monk is able to ““gain at will, without trouble or difficulty, the four *jhānas*  pertaining to the higher consciousness, blissful dwellings here and now.” This ability to gain the jhanas at will is a ‘“‘quality that makes a monk an elder.” When accompanied by several other spiritual accomplishments it is an essential quality of “a recluse who graces recluses”’ and of a monk who can move unobstructed in the four directions. Having ready access to the four *jhānas*  makes an elder dear and agreeable, respected and esteemed by his fellow monks. Facility in gaining the *jhānas*  is one of the eight qualities of a completely inspiring monk (samantapāsādika bhikkhu) perfect in all respects; it is also one of the eleven foundations of faith (*saddhāpadānāni*). It is significant that in all these lists of qualities the last item is always the attainment of arahatship, “the cankerless liberation of mind, liberation by wisdom,”’ showing that all desirable qualities in a bhikkhu culminate in arahatship.1
 
 On one occasion, when a number of chief disciples met together in a lovely Salwood at Gosiṅga on a beautiful moonlit night, the discussion arose among them as to what type of monk could illumine that Salwood. The Venerable Revata answered that it would be a monk who delights in solitary meditation, who 1s delighted by solitary meditation, who is intent on mental tranquility. The Venerable Sāriputta replied that it would be a monk who could abide in whatever meditative attainment he wanted in the morning, midday, and evening.’ Sāriputta himself is extolled for his ability to enter the four *jhānas*, the four āruppās, and the attainment of cessation without giving rise to the thought “TI am attaining,” ‘‘I have attained” or “‘I have emerged.”’ The reason he can avoid such thoughts is that, as an arahat, he has uprooted all “I’’-making, “mine’’-making, and tendencies to conceit.2 Elsewhere the Buddha praises Sāriputta for his skill in entering each of the nine attainments, analyzing them into their constituent formations, and contemplating them witha mind unconfined by attraction or repulsion.³
 
-[^398]: 398. AN. 2:23, 3:131, 135, 114; 4:314-15, 5:337.
+[^400]: 400. AN. 2:23, 3:131, 135, 114; 4:314-15, 5:337.
 
 The higher the degree of his mastery over the meditative attainments, the higher the esteem in which an arahat monk is held and the more praiseworthy his accomplishment is considered to be. On one occasion the Buddha met with three arahat bhikkhus— the Venerable Anuruddha, Nandiya, and Kimbila—and elicited from them the admission that they were all capable of attaining the four *jhānas*, the four āruppās, cessation, and the fruit of arahatship. After this discussion the Buddha declared that if all the people in the world were to recollect these three young men with a mind of confidence, it would lead to their welfare and happiness for a long time to come. He concludes: ““See how these three young men are faring for the welfare of the many folk, out of compassion for the world, for the good, welfare and happiness of gods and men.’’4
 
@@ -2480,29 +2484,29 @@ Though the *paññā-vimutta* and *ubhatobhāgavimutta* arahats are equal with r
 
 > When a monk has mastered these eight deliverances in direct order, in reverse order, and in both orders, when he can attain to and emerge from any one of them, whenever he chooses, wherever he chooses and for as long as he chooses—when too, with the destruction of the cankers, he enters and abides in the cankerless liberation of mind, liberation by wisdom, after realizing it for himself here and now through direct knowledge—then such a monk is called one liberated in both ways. There is no other liberation in both ways higher and more excellent than this liberation in both ways.
 
-[^399]: 399. MN. 1:213-15.
+[^401]: 401. MN. 1:213-15.
 
-[^400]: 400. SN. 3:235-38.
+[^402]: 402. SN. 3:235-38.
 
-[^401]: 401. MN. Sutta No. 111.
+[^403]: 403. MN. Sutta No. 111.
 
-[^402]: 402. MN. 1:211.
+[^404]: 404. MN. 1:211.
 
 The highest respect goes to those monks who possess not only liberation in both ways but the six *abhiññās*, the first five the outcome of the eight attainments of serenity, the sixth, the supramundane *abhiññā* of arahatship, the outcome of insight. The Buddha declares that a monk endowed with the six abhiiids is worthy of gifts and hospitality, worthy of offerings and reverential salutations, a supreme field of merit for the world.? In the period after the Buddha’s parinibbāna, the Venerable Ānanda was asked whether the Buddha had designated a successor, to which he replied in the negative. He also denied that the Saṅgha had selected a single monk to be its leader. However, he said, there were monks in the Order who were regarded with special reverence and esteem, and to whom other monks looked for guidance and support. What qualified a monk to give guidance to others was endowment with ten qualities: moral virtue, learning, contentment, mastery over the four *jhānas*, the five mundane *abhiññās*, and attainment of the cankerless liberation of mind, liberation by wisdom.? Perhaps it was because he was extolled by the Buddha for his facility in the meditative attainments and the *abhiññās* that the Venerable Mahākassapa assumed the presidency of the first great Buddhist council held in Rājagaha after the Buddha’s passing away.
 
 In the Ambaṭṭha Sutta the Buddha recites a verse praising the man endowed with knowledge and conduct (*vijjācaraṇasampanna*): “The nobleman (*khattiya*) is the best among men for those who look to lineage, but one endowed with knowledge and conduct is best among gods and men.’ Conduct (*caraṇa*), he explains, includes moral discipline, sense restraint, mindfulness and discernment, contentment, solitary living, the abandonment of the five hindrances, and finally, as the outcome of these practices, the attainment of the four *jhānas*. Knowledge (*vijjā*) consists in insight-knowledge, the knowledge of the mind-made body, the five mundane *abhiññās*, and the knowledge of the destruction of the cankers. The Buddha concludes his exposition by saying of a bhikkhu who has fulfilled this training:
 
-[^403]: 403. DN. 2:71.
+[^405]: 405. DN. 2:71.
 
-[^404]: 404. AN. 3:280-81.
+[^406]: 406. AN. 3:280-81.
 
-[^405]: 405. MN. 3:11-12.
+[^407]: 407. MN. 3:11-12.
 
-[^406]: 406. DN.. 1:99.
+[^408]: 408. DN.. 1:99.
 
 > This bhikkhu is called ‘endowed with knowledge’, ‘endowed with conduct’, ‘endowed with knowledge and conduct’. There is no other endowment with knowledge and conduct higher or more excellent than this endowment with knowledge and conduct.?
 
-[^407]: 407. Ibid. 100.
+[^409]: 409. Ibid. 100.
 
 ## CONCLUSION
 
@@ -2634,6 +2638,6 @@ The Thirty-seven Constituents of Enlightenment (*sattatiṃsā bodhi-pakkhiyadha
 
 7. Right mindfulness (*sammāsati*)
 
-8. Right concentration (*sammāsamādhi*)[^408]
+8. Right concentration (*sammāsamādhi*)[^410]
 
-[^408]: 408. DN. 2:120. MN. 2:11-12.
+[^410]: 410. DN. 2:120. MN. 2:11-12.
