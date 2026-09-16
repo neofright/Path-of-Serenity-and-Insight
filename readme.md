@@ -1512,7 +1512,7 @@ After mastering these fourteen modes the meditator should develop the four bases
 
 #### The Six *abhiññās*
 
-#### [1] Knowledge of the modes of super-normal power (*iddhividhañāṇa*)
+##### [1] Knowledge of the modes of super-normal power (*iddhividhañāṇa*)
 
 The Pali word iddhi, which we translate as ‘‘supernormal power,” literally means success or accomplishment. The main sense suggested by the word is an ability to perform feats which go against the normal course of natural events. For this reason the iddhis have sometimes been interpreted as supernatural or miraculous powers, but from the Buddhist standpoint these powers do not derive from any supernatural source but from a psychic potency based upon a superior understanding of the inner dynamics of nature. Thus they operate completely within the framework of the law of cause and effect and the ‘‘miracles’’ for which they are responsible remain entirely natural.
 
@@ -1560,7 +1560,7 @@ In this passage eight supernormal powers are expounded. We will examine them bri
 
 [^258]: 258. See Pts., pp. 387-388. Vism., pp. 331-332.
 
-### The Three Wonders
+##### The Three Wonders
 
 The possession of iddhi is regarded as a desirable quality in a bhikkhu which contributes to the completeness of his spiritual perfection. However, exhibiting supernormal powers to gain adherents, win offerings, or obtain popularity has been prohibited by the Buddha. In the Vinaya the display of supernormal feats or psychic powers is classified as an offense of wrong doing (dpatti-dukkata).1 Nevertheless, while the Buddha rebuked Piṇḍola Bhāradvāja for exhibiting his power to obtain a sandalwood bowl, he expressed approval of Moggallana’s exercise of psychic powers.² The reason for this difference is that the former made an indiscreet public exhibition of his power while the latter used them judiciously. The Buddha approved of the exhibition of psychic power only when it helps eliminate the defilements in peoples’ minds and makes them free from obsessions.
 
@@ -1574,7 +1574,7 @@ Sometimes the word iddhi appears in combination with another word pāṭihāriya
 
 The Paṭisambhidāmagga, elaborating this idea, states that the wonderful methods which promote renunciation, non-hatred, mental luminosity, composure of mind, determination of righteousness, wisdom, bliss, the attainment of the *jhānas*, etc., up to the path of arahatship are called the true iddhi as they bring real accomplishment and success. The methods that destroy sensual desire, ill will, sloth and torpor, restlessness and remorse, doubt, ignorance, clinging, the hindrances and defilements are called the real pāṭihāriya for the reason that they prevent one from falling back into *saṃsāra*.1 Thus for early Buddhism the practice of the noble path rather than performance of miracles constitutes the truly wonderful accomplishment.
 
-### [2] The second abhiññā: the divine ear-element (*dibbasotadhātu*)
+##### [2] The second abhiññā: the divine ear-element (*dibbasotadhātu*)
 
 The divine ear-element is the ability to hear the sounds of deities as well as of human beings, and to hear sounds that are far off, even in another world system, as well as sounds that are extremely near, such as the sounds of the creatures living in one’s own body. The texts describe the divine ear-element as follows:
 
@@ -1596,7 +1596,7 @@ This will be followed by three or four impulsions (*javana*) of the preliminary 
 
 If the yogin wishes to hear distant sounds he should begin by delimiting a small area, master the ability to hear the sounds in that area, and then extend the range of his hearing outward by degrees. As his ability improves he can hear distinctly all the sounds on earth and in the other planes of existence within a world system and even further. Moreover, if he wants to, he can define each sound separately, even when it is merged with other sounds.
 
-### [3] The third abhiññā: the knowledge of others’ minds (*cetopariya ñāṇa, paracittavijānana*)
+##### [3] The third abhiññā: the knowledge of others’ minds (*cetopariya ñāṇa, paracittavijānana*)
 
 The third *abhiññā* is the knowledge of others’ minds, the ability to penetrate with one’s own mind the mental states of others. ‘The Buddha describes this *abhiññā* as follows:
 
@@ -1604,7 +1604,7 @@ The third *abhiññā* is the knowledge of others’ minds, the ability to penet
 
 According to the explanation in the Visuddhimagga, a meditator who aspires to this knowledge must first have attained the divine eye, the faculty of supernormal vision (to be explained below). He should use the light-kasiṇa to extend light, radiating it into the physical hearts of the people whose minds he wishes to understand. With his divine eye he should then examine the color of the heart, which provides a key for interpreting the state of mind. According to Buddhaghosa, when a joyous state of mind is present the blood is red like banyan fruit, when a state accompanied by grief is present the blood is black like rose-apple fruit, and when a state accompanied by serenity is present the blood is clear like a sesamum oil.? Once the meditator gains familiarity with reading minds on the basis of the blood color, he can learn to penetrate the minds of others directly, without having to rely on a physical basis for making inferences. It should be pointed out, however, that a meditator possessing this faculty of knowledge still cannot penetrate the minds of those on a higher level of attainment than his own. Thus a worldling with mundane direct knowledge cannot penetrate the mind of an ariyan and know how the latter is free from certain defilements. Similarly, a stream-enterer cannot penetrate the mind of a once-returner, a once-returner the mind of a non-returner, a non-returner the mind of an arahant, or anarahant the mind of a pacceka-buddha or fully enlightened Buddha. The converse, however, is possible: one on a higher plane, if he has the faculty of penetrating others’ minds, can know the minds of those on a lower plane.’
 
-### [4] The fourth abhiññā: the knowledge of recollecting previous lives (*pubbenivāsānussatiñāṇa*)
+##### [4] The fourth abhiññā: the knowledge of recollecting previous lives (*pubbenivāsānussatiñāṇa*)
 
 The knowledge of recollecting previous lives is explained in the suttas as follows:
 
@@ -1622,7 +1622,7 @@ When his ability has matured there will arise in him a minddoor adverting consci
 
 [^267]: 267. Vajirafiana, Buddhist Meditation., pp. 447-48. DN. 1:81.
 
-### [5] The fifth abhiññā: the divine eye (*dibbacakkhu*) —the knowledge of the passing away and rebirth of beings (*cutūpapātañāṇa*)
+##### [5] The fifth abhiññā: the divine eye (*dibbacakkhu*) —the knowledge of the passing away and rebirth of beings (*cutūpapātañāṇa*)
 
 The text describing this *abhiññā* reads:
 
@@ -1638,7 +1638,7 @@ The divine eye, or knowledge of passing away and re-arising, has two accessory k
 
 [^269]: 269. PP., pp. 471, 477-78. Vism., pp. 363, 367-68.
 
-### [6] The sixth abhiññā: the knowledge of the destruction of the cankers (āsavakkhayañāṇa)
+##### [6] The sixth abhiññā: the knowledge of the destruction of the cankers (āsavakkhayañāṇa)
 
 The sixth direct-knowledge available to a meditator is the knowledge of the destruction of the cankers. The “cankers’’ are called in Pali *āsavas*, meaning literally that which flows out; thus the word is sometimes translated ‘‘outflows.’? The term signifies certain fundamental defilements which “flow out” from the mind, sustaining the process of *saṃsāra*. In the earliest texts the *āsavas* are usually given as three in number: the canker of sensual desire (*kāmāsava*), the canker of (craving for) existence (*bhavāsava*), and the canker of ignorance (*avijjāsava*). Other texts, particularly those of the Abhidhammapiṭaka, add a fourth, the canker of wrong views (*diṭṭhāsava*).
 
