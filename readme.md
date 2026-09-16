@@ -1638,7 +1638,7 @@ The divine eye, or knowledge of passing away and re-arising, has two accessory k
 
 [^269]: 269. PP., pp. 471, 477-78. Vism., pp. 363, 367-68.
 
-##### [6] The sixth abhiññā: the knowledge of the destruction of the cankers (āsavakkhayañāṇa)
+##### [6] The sixth abhiññā: the knowledge of the destruction of the cankers (*āsavakkhayañāṇa*)
 
 The sixth direct-knowledge available to a meditator is the knowledge of the destruction of the cankers. The “cankers’’ are called in Pali *āsavas*, meaning literally that which flows out; thus the word is sometimes translated ‘‘outflows.’? The term signifies certain fundamental defilements which “flow out” from the mind, sustaining the process of *saṃsāra*. In the earliest texts the *āsavas* are usually given as three in number: the canker of sensual desire (*kāmāsava*), the canker of (craving for) existence (*bhavāsava*), and the canker of ignorance (*avijjāsava*). Other texts, particularly those of the Abhidhammapiṭaka, add a fourth, the canker of wrong views (*diṭṭhāsava*).
 
