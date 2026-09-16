@@ -1336,9 +1336,7 @@ He might also become repelled by matter as a result of considering the numerous 
 
 [^219]: 219. PP., p. 354. Mn. 1:410.
 
-Once he has generated a strong desire to reach the immaterial *jhānas*  the meditator must achieve the fivefold mastery over the fourth *jhāna*. Then, after emerging from the *jhāna*, he perceives its defects and the benefits in the higher attainment. The defects are: [1] that the fourth *jhāna* has an object consisting in material form and hence is still connected with gross matter;
-
-[2] that it is close to happiness, a factor of the third jhāna; and [3] that it is coarser than the immaterial attainments. On the other hand, the meditator sees the base of boundless space as more peaceful and sublime than the fourth *jhāna* and as more safely removed from materiality.
+Once he has generated a strong desire to reach the immaterial *jhānas*  the meditator must achieve the fivefold mastery over the fourth *jhāna*. Then, after emerging from the *jhāna*, he perceives its defects and the benefits in the higher attainment. The defects are: [1] that the fourth *jhāna* has an object consisting in material form and hence is still connected with gross matter; [2] that it is close to happiness, a factor of the third jhāna; and [3] that it is coarser than the immaterial attainments. On the other hand, the meditator sees the base of boundless space as more peaceful and sublime than the fourth *jhāna* and as more safely removed from materiality.
 
 By reflecting on its defects the meditator ends his attachment to the fourth *jhāna* and sets out to reach the base of boundless space. To do so he does not make any effort to eliminate *jhāna* factors, as both the fourth fine material *jhāna* and the four immaterial *jhānas*  have the same factorial constitution—one-pointedness and neutral feeling. The method for attaining this first formless *jhāna* is to mentally extend the *kasiṇa* ‘‘to the limit of the world-sphere, or as far as he likes,’ and then to remove the *kasiṇa* by attending exclusively to the space it covered without adverting to the kasiṇa.
 
