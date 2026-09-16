@@ -1396,7 +1396,7 @@ To be aware of “unbounded consciousness” is to give attention to the conscio
 
 [^227]: 227. PP., p. 361. “Sabbaso akasanaficayatanam samatikkama, anantarh viññāṇa ti vififidnaficayatanarn upasampajja viharati.” Vibh., p. 273.
 
-#### The Third Āruppā: The Base of Nothingness (akificafifidyatana)
+#### The Third Āruppā: The Base of Nothingness (*akiñcaññāyatana*)
 
 To attain the next āruppā, the base of nothingness, the meditator who has mastered the base of boundless consciousness must perceive this attainment as defective due to its proximity to the base of boundless space and its grossness compared to the next higher *jhāna*. By recognizing these defects the meditator removes his attachment to the base of boundless consciousness; then he should advert to the base of nothingness as more peaceful. To concentrate on the base of nothingness the meditator must give attention to the [present] non-existence (*abhāva*), voidness (*suññata*), secluded aspect (*vivittākāra*) of that same [past] consciousness belonging to the base consisting of boundless space which became the object of [the consciousness belonging to] the base consisting of boundless consciousness.1
 
@@ -1414,7 +1414,7 @@ immaterial *jhāna* and its object. The phrase “‘there is nothing” is expl
 
 [^229]: 229. PP., p. 363. Vism., p. 277.
 
-[^230]: 230. PP., p. 363. “Sabbaso vififianaficayatanarh samatikkamma, n’atthi kiñci ti akificafifiayatanarh upasampajja viharati ti.” Vibh., p. 254.
+[^230]: 230. PP., p. 363. “Sabbaso vififianaficayatanarh samatikkamma, n’atthi kiñci ti akiñcaññāyatanam upasampajja viharati ti.” Vibh., p. 254.
 
 [^231]: 231. Vibh., p. 273, PP., p. 364.
 
@@ -1432,7 +1432,7 @@ Though the yogin, as the formula points out, attains the base of neither percept
 
 [^233]: 233. PP., p. 265. MN. 2-231
 
-[^234]: 234. PP.,: p. 365. “Sabbaso akificafifiayatanarh samatikkamma nevasaññaā nāsaññāyatanarṁ upasampajja viharati ti.” Vibh., p. 254.
+[^234]: 234. PP.,: p. 365. “Sabbaso akiñcaññāyatanam samatikkamma nevasaññaā nāsaññāyatanarṁ upasampajja viharati ti.” Vibh., p. 254.
 
 The name “‘base of neither perception nor non-perception’”’ suggests the abstruse nature of this *jhāna*. The *jhāna* receives this name because on the one hand it lacks gross perception and on the other retains a subtle perception. Lacking gross perception, it cannot perform the decisive function of perception—the clear discernment of objects—and thus cannot be said to have perception (neva saññā). But yet this attainment retains an extremely subtle perception and thus cannot be said to be without perception (*nāsaññā*). To make plain this ambivalent character of the *jhāna* it is named “‘the base of neither perception nor non-perception.” Because perception as well as all the other mental factors such as feeling, consciousness, contact, and the rest, continue here reduced to the finest subtlety this *jhāna* is also named “the attainment with residual formations”’ (*sankhārāvasesa samāpatti*).³
 
