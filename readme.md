@@ -90,7 +90,7 @@ The Buddha points to the bliss of the *jhānas* as his alternative to sense plea
 
 > There are, Cunda, four pursuits of pleasure which lead to ultimate disenchantment, dispassion, cessation, peace, direct knowledge, enlightenment, and *nibbāna*. Which four ? Here, Cunda, secluded from sense pleasures, a monk enters and dwells in the first *jhāna*...the second *jhāna*...the third *jhāna*...the fourth *jhāna*.[^14]
 
-His own disciples live devoted to these four pursuits of pleasure, and for them four fruits and benefits are to be expected, namely, attainment of the four stages of deliverance—stream-entry, oncereturning, non-returning, and arahatship.[^15] Just as the river Ganges slopes, inclines, and flows to the east, a bhikkhu who develops and cultivates the four jiṅānas slopes, flows, and inclines to nibbāna.[^16] The Buddha even refers to the four *jhānas*  figuratively (*pariyāyena*) as a kind of nibbana; he calls them immediately visible *nibbāna*, final *nibbāna*, a factor of *nibbāna*, and *nibbāna* here and now.[^17]
+His own disciples live devoted to these four pursuits of pleasure, and for them four fruits and benefits are to be expected, namely, attainment of the four stages of deliverance—stream-entry, oncereturning, non-returning, and arahatship.[^15] Just as the river Ganges slopes, inclines, and flows to the east, a bhikkhu who develops and cultivates the four *jhānas* slopes, flows, and inclines to nibbāna.[^16] The Buddha even refers to the four *jhānas*  figuratively (*pariyāyena*) as a kind of nibbana; he calls them immediately visible *nibbāna*, final *nibbāna*, a factor of *nibbāna*, and *nibbāna* here and now.[^17]
 
 [^7]: 7. MN. 1:246-47
 
