@@ -334,7 +334,7 @@ The factors which make a dwelling favorable to meditation are mentioned by the B
 
 ## III. THE CONQUEST OF THE HINDRANCES
 
-The *jhānas*  are attained sequentially, mastery over each lower one being a prerequisite to the practice issuing in the next higher one. The attainment of any *jhāna* comes about through a two-sided process of development—on one side is the elimination of the states obstructive to it, on the other the acquisition of the states composing it. The former set is called its factors of abandonment (pahdnangani), the latter its factors of possession (samanndgatangani). In the case of the first *jhāna* the factors of abandonment are the five hindrances, its factors of possession the basic five *jhāna* factors. Both are alluded to in the standard formula for the first *jhāna*:
+The *jhānas*  are attained sequentially, mastery over each lower one being a prerequisite to the practice issuing in the next higher one. The attainment of any *jhāna* comes about through a two-sided process of development—on one side is the elimination of the states obstructive to it, on the other the acquisition of the states composing it. The former set is called its factors of abandonment (*pahānangāni*), the latter its factors of possession (*samannāgatangāni*). In the case of the first *jhāna* the factors of abandonment are the five hindrances, its factors of possession the basic five *jhāna* factors. Both are alluded to in the standard formula for the first *jhāna*:
 
 > Quite secluded from sense pleasures, secluded from unwholesome states of mind, he enters and dwells in the first *jhāna*, which is accompanied by applied thought and sustained thought with rapture and happiness born of seclusion.[^54]
 
