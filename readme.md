@@ -2097,7 +2097,7 @@ The texts extoll the stream-enterer as acquiring incalculable benefits as a resu
 
 > Destroyed for me is rebirth in the hells, in the animal kingdom, in the spirit realm, in the planes of misery, the bad destinations, the downfall. I am a stream-enterer, no longer subject to decline, assured of and destined for full enlightenment.?
 
-He can be certain that he is released from five kinds of fear and hostility: the fear and hostility that come from taking life, from stealing, from sexual misconduct, from false speech, and from taking intoxicants. He is endowed with the four factors of streamentry (*sotāpattiyaṅgāni*): unwavering confidence in the Buddha, the Dhamma, and the Saṅgha, and unblemished moral discipline. He has penetrated and seen the truth with correct understanding.’ By so penetrating the truth he has limited his future births to a maximum of seven in the happy realms of the human and heaven worlds, drying up the great ocean of suffering that laid beyond this. Thus the Buddha says that for the streamenterer who has seen the Dhamma the amount of suffering that remains is like a pinch of dust on the finger nail, while the suffering that has been exhausted is like the dust on the mighty earth.°
+He can be certain that he is released from five kinds of fear and hostility: the fear and hostility that come from taking life, from stealing, from sexual misconduct, from false speech, and from taking intoxicants. He is endowed with the four factors of stream-entry (*sotāpattiyaṅgāni*): unwavering confidence in the Buddha, the Dhamma, and the Saṅgha, and unblemished moral discipline. He has penetrated and seen the truth with correct understanding.’ By so penetrating the truth he has limited his future births to a maximum of seven in the happy realms of the human and heaven worlds, drying up the great ocean of suffering that laid beyond this. Thus the Buddha says that for the streamenterer who has seen the Dhamma the amount of suffering that remains is like a pinch of dust on the finger nail, while the suffering that has been exhausted is like the dust on the mighty earth.°
 
 [^332]: 332. SN. 2:68.
 
@@ -2157,7 +2157,7 @@ The fullest treatment of the supramundane *jhānas*  in the authoritative Pali l
 
 > On the occasion when one develops supramundane *jhāna* which is emancipating, leading to the demolition (of existence), for the abandonment of views, for reaching the first plane, secluded from sense pleasures...... one enters and dwells in the first *jhāna*.²
 
-It then goes on to enumerate the various wholesome mental pheomena present on the occasion of that consciousness, defining each of these by their standard synonyms. We will consider the most significant auxiliary constituents of the supramundane *jhānas*  shortly, but first it is instructive to look at the introductory phrase itself in the light of its commentarial elucidation.
+It then goes on to enumerate the various wholesome mental phenomena present on the occasion of that consciousness, defining each of these by their standard synonyms. We will consider the most significant auxiliary constituents of the supramundane *jhānas*  shortly, but first it is instructive to look at the introductory phrase itself in the light of its commentarial elucidation.
 
 [^341]: 341. Dhs., pp. 74-86.
 
