@@ -1159,7 +1159,7 @@ After attaining the third *jhāna*, the yogin proceeds to perfect it through the
 
 #### The Attainment of the Jhāna
 
-Having achieved the fivefold mastery over the third *jhāna*, the meditator enters it, emerges from it, and reviews its constituting factors. When he reviews the *jhāna* the meditator sees the defect of proximate corruption—that the attainment is threatened by the nearness of rapture which though suppressed with the achivement of the third *jhāna*, still threatens to swell up again due to its natural association with happiness.
+Having achieved the fivefold mastery over the third *jhāna*, the meditator enters it, emerges from it, and reviews its constituting factors. When he reviews the *jhāna* the meditator sees the defect of proximate corruption—that the attainment is threatened by the nearness of rapture which though suppressed with the achievement of the third *jhāna*, still threatens to swell up again due to its natural association with happiness.
 
 The inherent defect of the third *jhāna* is happiness itself which the meditator sees to be a relatively gross factor that weakens the entire attainment. As he reflects equanimous feeling and one-pointedness appear more subtle, peaceful, and secure, and the fourth *jhāna* more desirable because it is constituted by these two factors.
 
