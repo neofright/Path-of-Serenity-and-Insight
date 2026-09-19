@@ -1529,7 +1529,7 @@ In this passage eight supernormal powers are expounded. We will examine them bri
 
 [3] To exercise the power of going through walls, enclosures, and mountains as though through space’ the yogin should attain the fourth *jhāna* in the space *kasiṇa*. Then he does the preliminary work by adverting to the wall, enclosure or mountain, etc. and resolving upon it as space. Asa result of his resolution it becomes space and he passes through it unhindered.
 
-[4] In order to acquire the ability to dive in and out of the ground as if it were water the yogin must have obtained the water *kasiṇa* attainment. He enters into the fourth *jhāna* on the water *kasiṇa* and emerges. Then he adverts to a portion of ground and resolves upon it thus ‘‘Let there be water.”’ The earth becomes water and he can dive in it, bathe in it, drink it, etc. If heresolves only this much the earth becomes water for him alone, but if he makes a determination it can become water for others as well.
+[4] In order to acquire the ability to dive in and out of the ground as if it were water the yogin must have obtained the water *kasiṇa* attainment. He enters into the fourth *jhāna* on the water *kasiṇa* and emerges. Then he adverts to a portion of ground and resolves upon it thus ‘‘Let there be water.”’ The earth becomes water and he can dive in it, bathe in it, drink it, etc. If he resolves only this much the earth becomes water for him alone, but if he makes a determination it can become water for others as well.
 
 [^250]: 250. PP., pp. 420-27. Vism., pp. 323-28.
 
